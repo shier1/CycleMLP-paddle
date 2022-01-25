@@ -187,10 +187,10 @@ sh script/predict.sh
 ```
 
 <p align="center">
-<img src="dataset/imagenet/val/ILSVRC2012_val_00000001.JPEG
-" alt="drawing" width="60%" height="60%"/>
+<img src="dataset/imagenet/val/ILSVRC2012_val_00000001.JPEG" alt="drawing" width="60%" height="60%"/>
 <h4 align="center">class_id:sea snak</h4>
 </p>
+
 
 输出结果：
 
