@@ -73,7 +73,7 @@ Light_ILSVRC2012数据结构如下图所示：
 
 执行script文件夹下`draw.sh`即可
 
-![](acc1, acc5.png)
+![](acc.png)
 
 
 ##  3. 准备环境
