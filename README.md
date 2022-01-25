@@ -73,7 +73,7 @@ Light_ILSVRC2012数据结构如下图所示：
 
 执行script文件夹下`draw.sh`即可
 
-![](/home/shier/Pictures/acc1, acc5.png)
+![](acc1, acc5.png)
 
 
 ##  3. 准备环境
@@ -187,7 +187,7 @@ sh script/predict.sh
 ```
 
 <p align="center">
-<img src="./dataset/imagenet/val/ILSVRC2012_val_00000001.JPEG
+<img src="dataset/imagenet/val/ILSVRC2012_val_00000001.JPEG
 " alt="drawing" width="60%" height="60%"/>
 <h4 align="center">class_id:sea snak</h4>
 </p>
