@@ -1,0 +1,898 @@
+2022-01-23 15:34:18,183 ----- Validation after Epoch: 2
+2022-01-23 15:35:31,621 Val Step[0000/1563], Avg Loss: 0.8177, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-23 15:35:33,653 Val Step[0050/1563], Avg Loss: 1.0098, Avg Acc@1: 0.7831, Avg Acc@5: 0.9412
+2022-01-23 15:35:35,660 Val Step[0100/1563], Avg Loss: 1.0410, Avg Acc@1: 0.7819, Avg Acc@5: 0.9378
+2022-01-23 15:35:37,682 Val Step[0150/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7819, Avg Acc@5: 0.9354
+2022-01-23 15:35:39,708 Val Step[0200/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7814, Avg Acc@5: 0.9353
+2022-01-23 15:35:41,626 Val Step[0250/1563], Avg Loss: 1.0345, Avg Acc@1: 0.7811, Avg Acc@5: 0.9376
+2022-01-23 15:35:43,508 Val Step[0300/1563], Avg Loss: 1.0350, Avg Acc@1: 0.7811, Avg Acc@5: 0.9364
+2022-01-23 15:35:45,486 Val Step[0350/1563], Avg Loss: 1.0399, Avg Acc@1: 0.7807, Avg Acc@5: 0.9361
+2022-01-23 15:35:47,542 Val Step[0400/1563], Avg Loss: 1.0391, Avg Acc@1: 0.7814, Avg Acc@5: 0.9360
+2022-01-23 15:35:49,570 Val Step[0450/1563], Avg Loss: 1.0435, Avg Acc@1: 0.7785, Avg Acc@5: 0.9358
+2022-01-23 15:35:51,574 Val Step[0500/1563], Avg Loss: 1.0461, Avg Acc@1: 0.7781, Avg Acc@5: 0.9362
+2022-01-23 15:35:53,554 Val Step[0550/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7775, Avg Acc@5: 0.9364
+2022-01-23 15:35:55,631 Val Step[0600/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7770, Avg Acc@5: 0.9364
+2022-01-23 15:35:57,580 Val Step[0650/1563], Avg Loss: 1.0445, Avg Acc@1: 0.7770, Avg Acc@5: 0.9366
+2022-01-23 15:35:59,435 Val Step[0700/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7774, Avg Acc@5: 0.9371
+2022-01-23 15:36:01,323 Val Step[0750/1563], Avg Loss: 1.0480, Avg Acc@1: 0.7753, Avg Acc@5: 0.9368
+2022-01-23 15:36:03,200 Val Step[0800/1563], Avg Loss: 1.0479, Avg Acc@1: 0.7758, Avg Acc@5: 0.9368
+2022-01-23 15:36:05,081 Val Step[0850/1563], Avg Loss: 1.0495, Avg Acc@1: 0.7754, Avg Acc@5: 0.9364
+2022-01-23 15:36:07,032 Val Step[0900/1563], Avg Loss: 1.0466, Avg Acc@1: 0.7761, Avg Acc@5: 0.9367
+2022-01-23 15:36:08,916 Val Step[0950/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7766, Avg Acc@5: 0.9370
+2022-01-23 15:36:10,766 Val Step[1000/1563], Avg Loss: 1.0473, Avg Acc@1: 0.7764, Avg Acc@5: 0.9366
+2022-01-23 15:36:12,675 Val Step[1050/1563], Avg Loss: 1.0492, Avg Acc@1: 0.7757, Avg Acc@5: 0.9364
+2022-01-23 15:36:14,668 Val Step[1100/1563], Avg Loss: 1.0493, Avg Acc@1: 0.7754, Avg Acc@5: 0.9366
+2022-01-23 15:36:16,530 Val Step[1150/1563], Avg Loss: 1.0469, Avg Acc@1: 0.7757, Avg Acc@5: 0.9369
+2022-01-23 15:36:18,415 Val Step[1200/1563], Avg Loss: 1.0458, Avg Acc@1: 0.7765, Avg Acc@5: 0.9368
+2022-01-23 15:36:20,262 Val Step[1250/1563], Avg Loss: 1.0456, Avg Acc@1: 0.7762, Avg Acc@5: 0.9372
+2022-01-23 15:36:22,069 Val Step[1300/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7760, Avg Acc@5: 0.9369
+2022-01-23 15:36:23,889 Val Step[1350/1563], Avg Loss: 1.0495, Avg Acc@1: 0.7754, Avg Acc@5: 0.9368
+2022-01-23 15:36:25,710 Val Step[1400/1563], Avg Loss: 1.0491, Avg Acc@1: 0.7751, Avg Acc@5: 0.9368
+2022-01-23 15:36:27,589 Val Step[1450/1563], Avg Loss: 1.0478, Avg Acc@1: 0.7757, Avg Acc@5: 0.9369
+2022-01-23 15:36:29,487 Val Step[1500/1563], Avg Loss: 1.0481, Avg Acc@1: 0.7758, Avg Acc@5: 0.9371
+2022-01-23 15:36:31,259 Val Step[1550/1563], Avg Loss: 1.0486, Avg Acc@1: 0.7755, Avg Acc@5: 0.9371
+2022-01-23 15:36:33,201 ----- Epoch[002/050], Validation Loss: 1.0484, Validation Acc@1: 0.7755, Validation Acc@5: 0.9372, time: 135.01
+2022-01-23 16:14:36,847 ----- Epoch[003/050], Train Loss: 2.8989, Train Acc: 0.4812, time: 2283.06, Best Val(epoch2) Acc@1: 0.7755
+2022-01-23 16:52:50,717 ----- Epoch[004/050], Train Loss: 2.9059, Train Acc: 0.4830, time: 2293.87, Best Val(epoch2) Acc@1: 0.7755
+2022-01-23 16:52:50,717 ----- Validation after Epoch: 4
+2022-01-23 16:54:01,363 Val Step[0000/1563], Avg Loss: 0.8253, Avg Acc@1: 0.7812, Avg Acc@5: 1.0000
+2022-01-23 16:54:03,158 Val Step[0050/1563], Avg Loss: 1.0095, Avg Acc@1: 0.7831, Avg Acc@5: 0.9393
+2022-01-23 16:54:04,920 Val Step[0100/1563], Avg Loss: 1.0409, Avg Acc@1: 0.7816, Avg Acc@5: 0.9381
+2022-01-23 16:54:06,762 Val Step[0150/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7821, Avg Acc@5: 0.9367
+2022-01-23 16:54:08,584 Val Step[0200/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7828, Avg Acc@5: 0.9364
+2022-01-23 16:54:10,358 Val Step[0250/1563], Avg Loss: 1.0377, Avg Acc@1: 0.7819, Avg Acc@5: 0.9381
+2022-01-23 16:54:12,129 Val Step[0300/1563], Avg Loss: 1.0377, Avg Acc@1: 0.7818, Avg Acc@5: 0.9373
+2022-01-23 16:54:13,922 Val Step[0350/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7811, Avg Acc@5: 0.9369
+2022-01-23 16:54:15,723 Val Step[0400/1563], Avg Loss: 1.0413, Avg Acc@1: 0.7814, Avg Acc@5: 0.9366
+2022-01-23 16:54:17,628 Val Step[0450/1563], Avg Loss: 1.0456, Avg Acc@1: 0.7792, Avg Acc@5: 0.9362
+2022-01-23 16:54:19,478 Val Step[0500/1563], Avg Loss: 1.0487, Avg Acc@1: 0.7786, Avg Acc@5: 0.9364
+2022-01-23 16:54:21,483 Val Step[0550/1563], Avg Loss: 1.0481, Avg Acc@1: 0.7777, Avg Acc@5: 0.9365
+2022-01-23 16:54:23,436 Val Step[0600/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7769, Avg Acc@5: 0.9367
+2022-01-23 16:54:25,319 Val Step[0650/1563], Avg Loss: 1.0466, Avg Acc@1: 0.7770, Avg Acc@5: 0.9369
+2022-01-23 16:54:27,205 Val Step[0700/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7773, Avg Acc@5: 0.9374
+2022-01-23 16:54:29,048 Val Step[0750/1563], Avg Loss: 1.0504, Avg Acc@1: 0.7750, Avg Acc@5: 0.9372
+2022-01-23 16:54:31,070 Val Step[0800/1563], Avg Loss: 1.0505, Avg Acc@1: 0.7753, Avg Acc@5: 0.9371
+2022-01-23 16:54:33,118 Val Step[0850/1563], Avg Loss: 1.0520, Avg Acc@1: 0.7751, Avg Acc@5: 0.9368
+2022-01-23 16:54:35,151 Val Step[0900/1563], Avg Loss: 1.0492, Avg Acc@1: 0.7759, Avg Acc@5: 0.9372
+2022-01-23 16:54:37,184 Val Step[0950/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7766, Avg Acc@5: 0.9373
+2022-01-23 16:54:39,238 Val Step[1000/1563], Avg Loss: 1.0499, Avg Acc@1: 0.7764, Avg Acc@5: 0.9367
+2022-01-23 16:54:41,294 Val Step[1050/1563], Avg Loss: 1.0517, Avg Acc@1: 0.7759, Avg Acc@5: 0.9365
+2022-01-23 16:54:43,320 Val Step[1100/1563], Avg Loss: 1.0519, Avg Acc@1: 0.7754, Avg Acc@5: 0.9367
+2022-01-23 16:54:45,364 Val Step[1150/1563], Avg Loss: 1.0496, Avg Acc@1: 0.7757, Avg Acc@5: 0.9370
+2022-01-23 16:54:47,414 Val Step[1200/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7765, Avg Acc@5: 0.9371
+2022-01-23 16:54:49,505 Val Step[1250/1563], Avg Loss: 1.0480, Avg Acc@1: 0.7760, Avg Acc@5: 0.9373
+2022-01-23 16:54:51,544 Val Step[1300/1563], Avg Loss: 1.0507, Avg Acc@1: 0.7759, Avg Acc@5: 0.9370
+2022-01-23 16:54:53,590 Val Step[1350/1563], Avg Loss: 1.0522, Avg Acc@1: 0.7754, Avg Acc@5: 0.9368
+2022-01-23 16:54:55,626 Val Step[1400/1563], Avg Loss: 1.0519, Avg Acc@1: 0.7750, Avg Acc@5: 0.9368
+2022-01-23 16:54:57,657 Val Step[1450/1563], Avg Loss: 1.0508, Avg Acc@1: 0.7755, Avg Acc@5: 0.9369
+2022-01-23 16:54:59,717 Val Step[1500/1563], Avg Loss: 1.0509, Avg Acc@1: 0.7758, Avg Acc@5: 0.9371
+2022-01-23 16:55:01,718 Val Step[1550/1563], Avg Loss: 1.0514, Avg Acc@1: 0.7756, Avg Acc@5: 0.9370
+2022-01-23 16:55:05,340 ----- Epoch[004/050], Validation Loss: 1.0513, Validation Acc@1: 0.7756, Validation Acc@5: 0.9371, time: 134.62
+2022-01-23 17:33:16,372 ----- Epoch[005/050], Train Loss: 2.8976, Train Acc: 0.4845, time: 2289.70, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 18:11:31,220 ----- Epoch[006/050], Train Loss: 2.9016, Train Acc: 0.4819, time: 2294.84, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 18:11:31,220 ----- Validation after Epoch: 6
+2022-01-23 18:12:37,182 Val Step[0000/1563], Avg Loss: 0.8375, Avg Acc@1: 0.7812, Avg Acc@5: 1.0000
+2022-01-23 18:12:39,104 Val Step[0050/1563], Avg Loss: 1.0126, Avg Acc@1: 0.7825, Avg Acc@5: 0.9418
+2022-01-23 18:12:41,003 Val Step[0100/1563], Avg Loss: 1.0438, Avg Acc@1: 0.7819, Avg Acc@5: 0.9390
+2022-01-23 18:12:42,955 Val Step[0150/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7798, Avg Acc@5: 0.9371
+2022-01-23 18:12:44,803 Val Step[0200/1563], Avg Loss: 1.0479, Avg Acc@1: 0.7802, Avg Acc@5: 0.9372
+2022-01-23 18:12:46,677 Val Step[0250/1563], Avg Loss: 1.0379, Avg Acc@1: 0.7803, Avg Acc@5: 0.9391
+2022-01-23 18:12:48,562 Val Step[0300/1563], Avg Loss: 1.0382, Avg Acc@1: 0.7807, Avg Acc@5: 0.9376
+2022-01-23 18:12:50,364 Val Step[0350/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7811, Avg Acc@5: 0.9373
+2022-01-23 18:12:52,253 Val Step[0400/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7815, Avg Acc@5: 0.9370
+2022-01-23 18:12:54,144 Val Step[0450/1563], Avg Loss: 1.0463, Avg Acc@1: 0.7792, Avg Acc@5: 0.9367
+2022-01-23 18:12:56,016 Val Step[0500/1563], Avg Loss: 1.0488, Avg Acc@1: 0.7788, Avg Acc@5: 0.9370
+2022-01-23 18:12:57,821 Val Step[0550/1563], Avg Loss: 1.0478, Avg Acc@1: 0.7778, Avg Acc@5: 0.9371
+2022-01-23 18:12:59,622 Val Step[0600/1563], Avg Loss: 1.0466, Avg Acc@1: 0.7772, Avg Acc@5: 0.9372
+2022-01-23 18:13:01,395 Val Step[0650/1563], Avg Loss: 1.0471, Avg Acc@1: 0.7771, Avg Acc@5: 0.9374
+2022-01-23 18:13:03,296 Val Step[0700/1563], Avg Loss: 1.0449, Avg Acc@1: 0.7776, Avg Acc@5: 0.9378
+2022-01-23 18:13:05,075 Val Step[0750/1563], Avg Loss: 1.0512, Avg Acc@1: 0.7753, Avg Acc@5: 0.9374
+2022-01-23 18:13:06,959 Val Step[0800/1563], Avg Loss: 1.0509, Avg Acc@1: 0.7760, Avg Acc@5: 0.9373
+2022-01-23 18:13:08,852 Val Step[0850/1563], Avg Loss: 1.0525, Avg Acc@1: 0.7756, Avg Acc@5: 0.9371
+2022-01-23 18:13:10,737 Val Step[0900/1563], Avg Loss: 1.0499, Avg Acc@1: 0.7762, Avg Acc@5: 0.9374
+2022-01-23 18:13:12,633 Val Step[0950/1563], Avg Loss: 1.0495, Avg Acc@1: 0.7767, Avg Acc@5: 0.9375
+2022-01-23 18:13:14,509 Val Step[1000/1563], Avg Loss: 1.0515, Avg Acc@1: 0.7764, Avg Acc@5: 0.9370
+2022-01-23 18:13:16,318 Val Step[1050/1563], Avg Loss: 1.0534, Avg Acc@1: 0.7758, Avg Acc@5: 0.9367
+2022-01-23 18:13:18,119 Val Step[1100/1563], Avg Loss: 1.0535, Avg Acc@1: 0.7751, Avg Acc@5: 0.9369
+2022-01-23 18:13:19,988 Val Step[1150/1563], Avg Loss: 1.0513, Avg Acc@1: 0.7756, Avg Acc@5: 0.9372
+2022-01-23 18:13:21,884 Val Step[1200/1563], Avg Loss: 1.0502, Avg Acc@1: 0.7762, Avg Acc@5: 0.9373
+2022-01-23 18:13:23,796 Val Step[1250/1563], Avg Loss: 1.0497, Avg Acc@1: 0.7758, Avg Acc@5: 0.9376
+2022-01-23 18:13:25,683 Val Step[1300/1563], Avg Loss: 1.0524, Avg Acc@1: 0.7757, Avg Acc@5: 0.9372
+2022-01-23 18:13:27,573 Val Step[1350/1563], Avg Loss: 1.0538, Avg Acc@1: 0.7750, Avg Acc@5: 0.9371
+2022-01-23 18:13:29,492 Val Step[1400/1563], Avg Loss: 1.0537, Avg Acc@1: 0.7747, Avg Acc@5: 0.9369
+2022-01-23 18:13:31,368 Val Step[1450/1563], Avg Loss: 1.0524, Avg Acc@1: 0.7753, Avg Acc@5: 0.9370
+2022-01-23 18:13:33,166 Val Step[1500/1563], Avg Loss: 1.0523, Avg Acc@1: 0.7756, Avg Acc@5: 0.9373
+2022-01-23 18:13:35,055 Val Step[1550/1563], Avg Loss: 1.0528, Avg Acc@1: 0.7754, Avg Acc@5: 0.9372
+2022-01-23 18:13:37,026 ----- Epoch[006/050], Validation Loss: 1.0526, Validation Acc@1: 0.7754, Validation Acc@5: 0.9373, time: 125.80
+2022-01-23 18:51:34,272 ----- Epoch[007/050], Train Loss: 2.8986, Train Acc: 0.4880, time: 2277.24, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 19:29:48,958 ----- Epoch[008/050], Train Loss: 2.8871, Train Acc: 0.4910, time: 2294.68, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 19:29:48,958 ----- Validation after Epoch: 8
+2022-01-23 19:30:59,644 Val Step[0000/1563], Avg Loss: 0.8424, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-23 19:31:01,469 Val Step[0050/1563], Avg Loss: 1.0107, Avg Acc@1: 0.7757, Avg Acc@5: 0.9406
+2022-01-23 19:31:03,652 Val Step[0100/1563], Avg Loss: 1.0395, Avg Acc@1: 0.7794, Avg Acc@5: 0.9378
+2022-01-23 19:31:05,795 Val Step[0150/1563], Avg Loss: 1.0423, Avg Acc@1: 0.7794, Avg Acc@5: 0.9365
+2022-01-23 19:31:07,828 Val Step[0200/1563], Avg Loss: 1.0408, Avg Acc@1: 0.7802, Avg Acc@5: 0.9372
+2022-01-23 19:31:09,882 Val Step[0250/1563], Avg Loss: 1.0312, Avg Acc@1: 0.7800, Avg Acc@5: 0.9390
+2022-01-23 19:31:11,965 Val Step[0300/1563], Avg Loss: 1.0320, Avg Acc@1: 0.7803, Avg Acc@5: 0.9374
+2022-01-23 19:31:14,060 Val Step[0350/1563], Avg Loss: 1.0369, Avg Acc@1: 0.7802, Avg Acc@5: 0.9374
+2022-01-23 19:31:16,078 Val Step[0400/1563], Avg Loss: 1.0370, Avg Acc@1: 0.7807, Avg Acc@5: 0.9370
+2022-01-23 19:31:18,209 Val Step[0450/1563], Avg Loss: 1.0414, Avg Acc@1: 0.7782, Avg Acc@5: 0.9368
+2022-01-23 19:31:20,271 Val Step[0500/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7776, Avg Acc@5: 0.9370
+2022-01-23 19:31:22,301 Val Step[0550/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7768, Avg Acc@5: 0.9373
+2022-01-23 19:31:24,322 Val Step[0600/1563], Avg Loss: 1.0433, Avg Acc@1: 0.7762, Avg Acc@5: 0.9375
+2022-01-23 19:31:26,370 Val Step[0650/1563], Avg Loss: 1.0438, Avg Acc@1: 0.7760, Avg Acc@5: 0.9375
+2022-01-23 19:31:28,475 Val Step[0700/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7763, Avg Acc@5: 0.9381
+2022-01-23 19:31:30,486 Val Step[0750/1563], Avg Loss: 1.0481, Avg Acc@1: 0.7745, Avg Acc@5: 0.9375
+2022-01-23 19:31:32,502 Val Step[0800/1563], Avg Loss: 1.0480, Avg Acc@1: 0.7751, Avg Acc@5: 0.9372
+2022-01-23 19:31:34,393 Val Step[0850/1563], Avg Loss: 1.0497, Avg Acc@1: 0.7749, Avg Acc@5: 0.9369
+2022-01-23 19:31:36,251 Val Step[0900/1563], Avg Loss: 1.0469, Avg Acc@1: 0.7755, Avg Acc@5: 0.9375
+2022-01-23 19:31:38,124 Val Step[0950/1563], Avg Loss: 1.0462, Avg Acc@1: 0.7762, Avg Acc@5: 0.9377
+2022-01-23 19:31:40,146 Val Step[1000/1563], Avg Loss: 1.0480, Avg Acc@1: 0.7758, Avg Acc@5: 0.9374
+2022-01-23 19:31:42,167 Val Step[1050/1563], Avg Loss: 1.0500, Avg Acc@1: 0.7750, Avg Acc@5: 0.9370
+2022-01-23 19:31:44,183 Val Step[1100/1563], Avg Loss: 1.0502, Avg Acc@1: 0.7745, Avg Acc@5: 0.9371
+2022-01-23 19:31:46,197 Val Step[1150/1563], Avg Loss: 1.0478, Avg Acc@1: 0.7747, Avg Acc@5: 0.9373
+2022-01-23 19:31:48,268 Val Step[1200/1563], Avg Loss: 1.0468, Avg Acc@1: 0.7755, Avg Acc@5: 0.9373
+2022-01-23 19:31:50,372 Val Step[1250/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7749, Avg Acc@5: 0.9376
+2022-01-23 19:31:52,386 Val Step[1300/1563], Avg Loss: 1.0493, Avg Acc@1: 0.7748, Avg Acc@5: 0.9372
+2022-01-23 19:31:54,409 Val Step[1350/1563], Avg Loss: 1.0503, Avg Acc@1: 0.7742, Avg Acc@5: 0.9372
+2022-01-23 19:31:56,409 Val Step[1400/1563], Avg Loss: 1.0500, Avg Acc@1: 0.7739, Avg Acc@5: 0.9372
+2022-01-23 19:31:58,407 Val Step[1450/1563], Avg Loss: 1.0488, Avg Acc@1: 0.7744, Avg Acc@5: 0.9372
+2022-01-23 19:32:00,398 Val Step[1500/1563], Avg Loss: 1.0490, Avg Acc@1: 0.7745, Avg Acc@5: 0.9374
+2022-01-23 19:32:02,369 Val Step[1550/1563], Avg Loss: 1.0493, Avg Acc@1: 0.7742, Avg Acc@5: 0.9373
+2022-01-23 19:32:04,316 ----- Epoch[008/050], Validation Loss: 1.0491, Validation Acc@1: 0.7743, Validation Acc@5: 0.9374, time: 135.36
+2022-01-23 20:10:10,162 ----- Epoch[009/050], Train Loss: 2.8943, Train Acc: 0.4923, time: 2285.84, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 20:48:28,046 ----- Epoch[010/050], Train Loss: 2.9096, Train Acc: 0.4837, time: 2297.88, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 20:48:28,046 ----- Validation after Epoch: 10
+2022-01-23 20:49:44,073 Val Step[0000/1563], Avg Loss: 0.8297, Avg Acc@1: 0.7812, Avg Acc@5: 1.0000
+2022-01-23 20:49:46,147 Val Step[0050/1563], Avg Loss: 1.0036, Avg Acc@1: 0.7757, Avg Acc@5: 0.9412
+2022-01-23 20:49:47,976 Val Step[0100/1563], Avg Loss: 1.0338, Avg Acc@1: 0.7785, Avg Acc@5: 0.9384
+2022-01-23 20:49:49,821 Val Step[0150/1563], Avg Loss: 1.0378, Avg Acc@1: 0.7798, Avg Acc@5: 0.9369
+2022-01-23 20:49:51,727 Val Step[0200/1563], Avg Loss: 1.0362, Avg Acc@1: 0.7795, Avg Acc@5: 0.9378
+2022-01-23 20:49:53,517 Val Step[0250/1563], Avg Loss: 1.0271, Avg Acc@1: 0.7793, Avg Acc@5: 0.9392
+2022-01-23 20:49:55,387 Val Step[0300/1563], Avg Loss: 1.0275, Avg Acc@1: 0.7797, Avg Acc@5: 0.9377
+2022-01-23 20:49:57,233 Val Step[0350/1563], Avg Loss: 1.0326, Avg Acc@1: 0.7789, Avg Acc@5: 0.9372
+2022-01-23 20:49:59,057 Val Step[0400/1563], Avg Loss: 1.0318, Avg Acc@1: 0.7804, Avg Acc@5: 0.9370
+2022-01-23 20:50:00,886 Val Step[0450/1563], Avg Loss: 1.0362, Avg Acc@1: 0.7781, Avg Acc@5: 0.9368
+2022-01-23 20:50:02,742 Val Step[0500/1563], Avg Loss: 1.0391, Avg Acc@1: 0.7774, Avg Acc@5: 0.9371
+2022-01-23 20:50:04,564 Val Step[0550/1563], Avg Loss: 1.0383, Avg Acc@1: 0.7763, Avg Acc@5: 0.9370
+2022-01-23 20:50:06,428 Val Step[0600/1563], Avg Loss: 1.0372, Avg Acc@1: 0.7766, Avg Acc@5: 0.9371
+2022-01-23 20:50:08,286 Val Step[0650/1563], Avg Loss: 1.0376, Avg Acc@1: 0.7763, Avg Acc@5: 0.9372
+2022-01-23 20:50:10,207 Val Step[0700/1563], Avg Loss: 1.0354, Avg Acc@1: 0.7766, Avg Acc@5: 0.9377
+2022-01-23 20:50:12,170 Val Step[0750/1563], Avg Loss: 1.0417, Avg Acc@1: 0.7744, Avg Acc@5: 0.9373
+2022-01-23 20:50:14,074 Val Step[0800/1563], Avg Loss: 1.0415, Avg Acc@1: 0.7753, Avg Acc@5: 0.9373
+2022-01-23 20:50:15,921 Val Step[0850/1563], Avg Loss: 1.0431, Avg Acc@1: 0.7750, Avg Acc@5: 0.9370
+2022-01-23 20:50:17,789 Val Step[0900/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7755, Avg Acc@5: 0.9373
+2022-01-23 20:50:19,823 Val Step[0950/1563], Avg Loss: 1.0397, Avg Acc@1: 0.7762, Avg Acc@5: 0.9375
+2022-01-23 20:50:21,859 Val Step[1000/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7758, Avg Acc@5: 0.9372
+2022-01-23 20:50:23,957 Val Step[1050/1563], Avg Loss: 1.0435, Avg Acc@1: 0.7753, Avg Acc@5: 0.9368
+2022-01-23 20:50:25,911 Val Step[1100/1563], Avg Loss: 1.0436, Avg Acc@1: 0.7748, Avg Acc@5: 0.9370
+2022-01-23 20:50:27,833 Val Step[1150/1563], Avg Loss: 1.0414, Avg Acc@1: 0.7751, Avg Acc@5: 0.9372
+2022-01-23 20:50:29,766 Val Step[1200/1563], Avg Loss: 1.0404, Avg Acc@1: 0.7757, Avg Acc@5: 0.9374
+2022-01-23 20:50:31,814 Val Step[1250/1563], Avg Loss: 1.0400, Avg Acc@1: 0.7756, Avg Acc@5: 0.9377
+2022-01-23 20:50:33,884 Val Step[1300/1563], Avg Loss: 1.0428, Avg Acc@1: 0.7756, Avg Acc@5: 0.9372
+2022-01-23 20:50:35,719 Val Step[1350/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7749, Avg Acc@5: 0.9372
+2022-01-23 20:50:37,507 Val Step[1400/1563], Avg Loss: 1.0435, Avg Acc@1: 0.7745, Avg Acc@5: 0.9372
+2022-01-23 20:50:39,296 Val Step[1450/1563], Avg Loss: 1.0423, Avg Acc@1: 0.7750, Avg Acc@5: 0.9374
+2022-01-23 20:50:41,100 Val Step[1500/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7752, Avg Acc@5: 0.9376
+2022-01-23 20:50:42,904 Val Step[1550/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7749, Avg Acc@5: 0.9374
+2022-01-23 20:50:44,803 ----- Epoch[010/050], Validation Loss: 1.0427, Validation Acc@1: 0.7750, Validation Acc@5: 0.9375, time: 136.75
+2022-01-23 21:28:53,712 ----- Epoch[011/050], Train Loss: 2.8951, Train Acc: 0.4901, time: 2288.91, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 22:07:11,113 ----- Epoch[012/050], Train Loss: 2.8884, Train Acc: 0.4880, time: 2297.40, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 22:07:11,113 ----- Validation after Epoch: 12
+2022-01-23 22:08:46,703 Val Step[0000/1563], Avg Loss: 0.8479, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-23 22:08:48,520 Val Step[0050/1563], Avg Loss: 1.0128, Avg Acc@1: 0.7794, Avg Acc@5: 0.9412
+2022-01-23 22:08:50,317 Val Step[0100/1563], Avg Loss: 1.0406, Avg Acc@1: 0.7800, Avg Acc@5: 0.9384
+2022-01-23 22:08:52,101 Val Step[0150/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7815, Avg Acc@5: 0.9363
+2022-01-23 22:08:53,912 Val Step[0200/1563], Avg Loss: 1.0436, Avg Acc@1: 0.7822, Avg Acc@5: 0.9366
+2022-01-23 22:08:55,909 Val Step[0250/1563], Avg Loss: 1.0334, Avg Acc@1: 0.7814, Avg Acc@5: 0.9381
+2022-01-23 22:08:57,972 Val Step[0300/1563], Avg Loss: 1.0340, Avg Acc@1: 0.7805, Avg Acc@5: 0.9373
+2022-01-23 22:09:00,074 Val Step[0350/1563], Avg Loss: 1.0385, Avg Acc@1: 0.7793, Avg Acc@5: 0.9368
+2022-01-23 22:09:02,154 Val Step[0400/1563], Avg Loss: 1.0382, Avg Acc@1: 0.7799, Avg Acc@5: 0.9366
+2022-01-23 22:09:04,212 Val Step[0450/1563], Avg Loss: 1.0428, Avg Acc@1: 0.7772, Avg Acc@5: 0.9364
+2022-01-23 22:09:06,314 Val Step[0500/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7764, Avg Acc@5: 0.9367
+2022-01-23 22:09:08,378 Val Step[0550/1563], Avg Loss: 1.0454, Avg Acc@1: 0.7756, Avg Acc@5: 0.9368
+2022-01-23 22:09:10,398 Val Step[0600/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7751, Avg Acc@5: 0.9370
+2022-01-23 22:09:12,393 Val Step[0650/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7750, Avg Acc@5: 0.9374
+2022-01-23 22:09:14,425 Val Step[0700/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7757, Avg Acc@5: 0.9377
+2022-01-23 22:09:16,483 Val Step[0750/1563], Avg Loss: 1.0485, Avg Acc@1: 0.7737, Avg Acc@5: 0.9372
+2022-01-23 22:09:18,529 Val Step[0800/1563], Avg Loss: 1.0482, Avg Acc@1: 0.7746, Avg Acc@5: 0.9371
+2022-01-23 22:09:20,525 Val Step[0850/1563], Avg Loss: 1.0496, Avg Acc@1: 0.7743, Avg Acc@5: 0.9368
+2022-01-23 22:09:22,514 Val Step[0900/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7751, Avg Acc@5: 0.9370
+2022-01-23 22:09:24,402 Val Step[0950/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7760, Avg Acc@5: 0.9373
+2022-01-23 22:09:26,197 Val Step[1000/1563], Avg Loss: 1.0477, Avg Acc@1: 0.7757, Avg Acc@5: 0.9370
+2022-01-23 22:09:27,983 Val Step[1050/1563], Avg Loss: 1.0499, Avg Acc@1: 0.7752, Avg Acc@5: 0.9368
+2022-01-23 22:09:29,918 Val Step[1100/1563], Avg Loss: 1.0501, Avg Acc@1: 0.7747, Avg Acc@5: 0.9368
+2022-01-23 22:09:31,698 Val Step[1150/1563], Avg Loss: 1.0477, Avg Acc@1: 0.7750, Avg Acc@5: 0.9371
+2022-01-23 22:09:33,503 Val Step[1200/1563], Avg Loss: 1.0468, Avg Acc@1: 0.7756, Avg Acc@5: 0.9371
+2022-01-23 22:09:35,333 Val Step[1250/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7753, Avg Acc@5: 0.9374
+2022-01-23 22:09:37,130 Val Step[1300/1563], Avg Loss: 1.0495, Avg Acc@1: 0.7751, Avg Acc@5: 0.9370
+2022-01-23 22:09:39,047 Val Step[1350/1563], Avg Loss: 1.0506, Avg Acc@1: 0.7746, Avg Acc@5: 0.9369
+2022-01-23 22:09:40,857 Val Step[1400/1563], Avg Loss: 1.0502, Avg Acc@1: 0.7744, Avg Acc@5: 0.9369
+2022-01-23 22:09:42,638 Val Step[1450/1563], Avg Loss: 1.0489, Avg Acc@1: 0.7749, Avg Acc@5: 0.9369
+2022-01-23 22:09:44,441 Val Step[1500/1563], Avg Loss: 1.0488, Avg Acc@1: 0.7750, Avg Acc@5: 0.9371
+2022-01-23 22:09:46,205 Val Step[1550/1563], Avg Loss: 1.0492, Avg Acc@1: 0.7749, Avg Acc@5: 0.9370
+2022-01-23 22:09:48,132 ----- Epoch[012/050], Validation Loss: 1.0491, Validation Acc@1: 0.7749, Validation Acc@5: 0.9371, time: 157.02
+2022-01-23 22:48:10,434 ----- Epoch[013/050], Train Loss: 2.9042, Train Acc: 0.4808, time: 2302.30, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 23:26:31,952 ----- Epoch[014/050], Train Loss: 2.8869, Train Acc: 0.4836, time: 2301.51, Best Val(epoch4) Acc@1: 0.7756
+2022-01-23 23:26:31,952 ----- Validation after Epoch: 14
+2022-01-23 23:27:45,170 Val Step[0000/1563], Avg Loss: 0.8206, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-23 23:27:47,259 Val Step[0050/1563], Avg Loss: 1.0033, Avg Acc@1: 0.7812, Avg Acc@5: 0.9424
+2022-01-23 23:27:49,235 Val Step[0100/1563], Avg Loss: 1.0367, Avg Acc@1: 0.7825, Avg Acc@5: 0.9378
+2022-01-23 23:27:51,175 Val Step[0150/1563], Avg Loss: 1.0382, Avg Acc@1: 0.7806, Avg Acc@5: 0.9348
+2022-01-23 23:27:53,259 Val Step[0200/1563], Avg Loss: 1.0387, Avg Acc@1: 0.7825, Avg Acc@5: 0.9361
+2022-01-23 23:27:55,288 Val Step[0250/1563], Avg Loss: 1.0284, Avg Acc@1: 0.7820, Avg Acc@5: 0.9375
+2022-01-23 23:27:57,375 Val Step[0300/1563], Avg Loss: 1.0284, Avg Acc@1: 0.7820, Avg Acc@5: 0.9367
+2022-01-23 23:27:59,403 Val Step[0350/1563], Avg Loss: 1.0327, Avg Acc@1: 0.7812, Avg Acc@5: 0.9362
+2022-01-23 23:28:01,430 Val Step[0400/1563], Avg Loss: 1.0325, Avg Acc@1: 0.7817, Avg Acc@5: 0.9359
+2022-01-23 23:28:03,445 Val Step[0450/1563], Avg Loss: 1.0369, Avg Acc@1: 0.7795, Avg Acc@5: 0.9358
+2022-01-23 23:28:05,474 Val Step[0500/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7785, Avg Acc@5: 0.9364
+2022-01-23 23:28:07,513 Val Step[0550/1563], Avg Loss: 1.0396, Avg Acc@1: 0.7775, Avg Acc@5: 0.9363
+2022-01-23 23:28:09,568 Val Step[0600/1563], Avg Loss: 1.0390, Avg Acc@1: 0.7772, Avg Acc@5: 0.9364
+2022-01-23 23:28:11,605 Val Step[0650/1563], Avg Loss: 1.0401, Avg Acc@1: 0.7767, Avg Acc@5: 0.9365
+2022-01-23 23:28:13,678 Val Step[0700/1563], Avg Loss: 1.0378, Avg Acc@1: 0.7769, Avg Acc@5: 0.9371
+2022-01-23 23:28:15,740 Val Step[0750/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7751, Avg Acc@5: 0.9369
+2022-01-23 23:28:17,777 Val Step[0800/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7756, Avg Acc@5: 0.9369
+2022-01-23 23:28:19,800 Val Step[0850/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7752, Avg Acc@5: 0.9365
+2022-01-23 23:28:21,807 Val Step[0900/1563], Avg Loss: 1.0430, Avg Acc@1: 0.7760, Avg Acc@5: 0.9369
+2022-01-23 23:28:23,879 Val Step[0950/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7767, Avg Acc@5: 0.9371
+2022-01-23 23:28:25,907 Val Step[1000/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7767, Avg Acc@5: 0.9369
+2022-01-23 23:28:27,953 Val Step[1050/1563], Avg Loss: 1.0462, Avg Acc@1: 0.7762, Avg Acc@5: 0.9366
+2022-01-23 23:28:29,988 Val Step[1100/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7758, Avg Acc@5: 0.9368
+2022-01-23 23:28:32,036 Val Step[1150/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7761, Avg Acc@5: 0.9370
+2022-01-23 23:28:33,928 Val Step[1200/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7768, Avg Acc@5: 0.9370
+2022-01-23 23:28:35,798 Val Step[1250/1563], Avg Loss: 1.0427, Avg Acc@1: 0.7764, Avg Acc@5: 0.9372
+2022-01-23 23:28:37,893 Val Step[1300/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7762, Avg Acc@5: 0.9368
+2022-01-23 23:28:39,961 Val Step[1350/1563], Avg Loss: 1.0469, Avg Acc@1: 0.7756, Avg Acc@5: 0.9368
+2022-01-23 23:28:42,014 Val Step[1400/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7753, Avg Acc@5: 0.9368
+2022-01-23 23:28:44,216 Val Step[1450/1563], Avg Loss: 1.0452, Avg Acc@1: 0.7758, Avg Acc@5: 0.9368
+2022-01-23 23:28:46,375 Val Step[1500/1563], Avg Loss: 1.0452, Avg Acc@1: 0.7759, Avg Acc@5: 0.9370
+2022-01-23 23:28:48,420 Val Step[1550/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7757, Avg Acc@5: 0.9370
+2022-01-23 23:28:50,335 ----- Epoch[014/050], Validation Loss: 1.0456, Validation Acc@1: 0.7757, Validation Acc@5: 0.9371, time: 138.38
+2022-01-24 00:07:03,656 ----- Epoch[015/050], Train Loss: 2.8909, Train Acc: 0.4884, time: 2291.63, Best Val(epoch14) Acc@1: 0.7757
+2022-01-24 00:45:40,420 ----- Epoch[016/050], Train Loss: 2.8868, Train Acc: 0.4923, time: 2316.76, Best Val(epoch14) Acc@1: 0.7757
+2022-01-24 00:45:40,421 ----- Validation after Epoch: 16
+2022-01-24 00:46:50,877 Val Step[0000/1563], Avg Loss: 0.8186, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 00:46:53,053 Val Step[0050/1563], Avg Loss: 1.0124, Avg Acc@1: 0.7794, Avg Acc@5: 0.9436
+2022-01-24 00:46:54,825 Val Step[0100/1563], Avg Loss: 1.0407, Avg Acc@1: 0.7828, Avg Acc@5: 0.9403
+2022-01-24 00:46:56,694 Val Step[0150/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7810, Avg Acc@5: 0.9377
+2022-01-24 00:46:58,459 Val Step[0200/1563], Avg Loss: 1.0435, Avg Acc@1: 0.7826, Avg Acc@5: 0.9370
+2022-01-24 00:47:00,302 Val Step[0250/1563], Avg Loss: 1.0330, Avg Acc@1: 0.7817, Avg Acc@5: 0.9381
+2022-01-24 00:47:02,159 Val Step[0300/1563], Avg Loss: 1.0327, Avg Acc@1: 0.7817, Avg Acc@5: 0.9368
+2022-01-24 00:47:04,022 Val Step[0350/1563], Avg Loss: 1.0377, Avg Acc@1: 0.7808, Avg Acc@5: 0.9365
+2022-01-24 00:47:05,922 Val Step[0400/1563], Avg Loss: 1.0374, Avg Acc@1: 0.7809, Avg Acc@5: 0.9364
+2022-01-24 00:47:07,754 Val Step[0450/1563], Avg Loss: 1.0421, Avg Acc@1: 0.7783, Avg Acc@5: 0.9362
+2022-01-24 00:47:09,580 Val Step[0500/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7781, Avg Acc@5: 0.9366
+2022-01-24 00:47:11,382 Val Step[0550/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7772, Avg Acc@5: 0.9366
+2022-01-24 00:47:13,226 Val Step[0600/1563], Avg Loss: 1.0434, Avg Acc@1: 0.7773, Avg Acc@5: 0.9367
+2022-01-24 00:47:15,063 Val Step[0650/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7771, Avg Acc@5: 0.9369
+2022-01-24 00:47:16,844 Val Step[0700/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7774, Avg Acc@5: 0.9375
+2022-01-24 00:47:18,748 Val Step[0750/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7751, Avg Acc@5: 0.9372
+2022-01-24 00:47:20,650 Val Step[0800/1563], Avg Loss: 1.0479, Avg Acc@1: 0.7758, Avg Acc@5: 0.9371
+2022-01-24 00:47:22,578 Val Step[0850/1563], Avg Loss: 1.0493, Avg Acc@1: 0.7756, Avg Acc@5: 0.9367
+2022-01-24 00:47:24,464 Val Step[0900/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7760, Avg Acc@5: 0.9371
+2022-01-24 00:47:26,398 Val Step[0950/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7767, Avg Acc@5: 0.9372
+2022-01-24 00:47:28,211 Val Step[1000/1563], Avg Loss: 1.0475, Avg Acc@1: 0.7763, Avg Acc@5: 0.9368
+2022-01-24 00:47:30,061 Val Step[1050/1563], Avg Loss: 1.0495, Avg Acc@1: 0.7757, Avg Acc@5: 0.9366
+2022-01-24 00:47:31,860 Val Step[1100/1563], Avg Loss: 1.0494, Avg Acc@1: 0.7754, Avg Acc@5: 0.9368
+2022-01-24 00:47:33,717 Val Step[1150/1563], Avg Loss: 1.0470, Avg Acc@1: 0.7757, Avg Acc@5: 0.9373
+2022-01-24 00:47:35,634 Val Step[1200/1563], Avg Loss: 1.0458, Avg Acc@1: 0.7764, Avg Acc@5: 0.9373
+2022-01-24 00:47:37,495 Val Step[1250/1563], Avg Loss: 1.0456, Avg Acc@1: 0.7759, Avg Acc@5: 0.9375
+2022-01-24 00:47:39,356 Val Step[1300/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7757, Avg Acc@5: 0.9372
+2022-01-24 00:47:41,243 Val Step[1350/1563], Avg Loss: 1.0496, Avg Acc@1: 0.7750, Avg Acc@5: 0.9370
+2022-01-24 00:47:43,178 Val Step[1400/1563], Avg Loss: 1.0491, Avg Acc@1: 0.7746, Avg Acc@5: 0.9369
+2022-01-24 00:47:45,146 Val Step[1450/1563], Avg Loss: 1.0478, Avg Acc@1: 0.7750, Avg Acc@5: 0.9370
+2022-01-24 00:47:47,141 Val Step[1500/1563], Avg Loss: 1.0478, Avg Acc@1: 0.7752, Avg Acc@5: 0.9372
+2022-01-24 00:47:49,181 Val Step[1550/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7749, Avg Acc@5: 0.9371
+2022-01-24 00:47:51,232 ----- Epoch[016/050], Validation Loss: 1.0482, Validation Acc@1: 0.7749, Validation Acc@5: 0.9371, time: 130.81
+2022-01-24 01:25:58,112 ----- Epoch[017/050], Train Loss: 2.8926, Train Acc: 0.4932, time: 2286.88, Best Val(epoch14) Acc@1: 0.7757
+2022-01-24 02:04:01,559 ----- Epoch[018/050], Train Loss: 2.8965, Train Acc: 0.4826, time: 2283.44, Best Val(epoch14) Acc@1: 0.7757
+2022-01-24 02:04:01,559 ----- Validation after Epoch: 18
+2022-01-24 02:05:28,713 Val Step[0000/1563], Avg Loss: 0.8645, Avg Acc@1: 0.7812, Avg Acc@5: 1.0000
+2022-01-24 02:05:30,552 Val Step[0050/1563], Avg Loss: 1.0201, Avg Acc@1: 0.7825, Avg Acc@5: 0.9412
+2022-01-24 02:05:32,456 Val Step[0100/1563], Avg Loss: 1.0516, Avg Acc@1: 0.7840, Avg Acc@5: 0.9369
+2022-01-24 02:05:34,257 Val Step[0150/1563], Avg Loss: 1.0531, Avg Acc@1: 0.7829, Avg Acc@5: 0.9354
+2022-01-24 02:05:36,048 Val Step[0200/1563], Avg Loss: 1.0525, Avg Acc@1: 0.7842, Avg Acc@5: 0.9364
+2022-01-24 02:05:37,836 Val Step[0250/1563], Avg Loss: 1.0428, Avg Acc@1: 0.7820, Avg Acc@5: 0.9377
+2022-01-24 02:05:39,681 Val Step[0300/1563], Avg Loss: 1.0431, Avg Acc@1: 0.7814, Avg Acc@5: 0.9370
+2022-01-24 02:05:41,633 Val Step[0350/1563], Avg Loss: 1.0476, Avg Acc@1: 0.7804, Avg Acc@5: 0.9367
+2022-01-24 02:05:43,462 Val Step[0400/1563], Avg Loss: 1.0469, Avg Acc@1: 0.7809, Avg Acc@5: 0.9361
+2022-01-24 02:05:45,305 Val Step[0450/1563], Avg Loss: 1.0516, Avg Acc@1: 0.7785, Avg Acc@5: 0.9359
+2022-01-24 02:05:47,143 Val Step[0500/1563], Avg Loss: 1.0544, Avg Acc@1: 0.7776, Avg Acc@5: 0.9364
+2022-01-24 02:05:48,930 Val Step[0550/1563], Avg Loss: 1.0533, Avg Acc@1: 0.7766, Avg Acc@5: 0.9368
+2022-01-24 02:05:50,710 Val Step[0600/1563], Avg Loss: 1.0520, Avg Acc@1: 0.7758, Avg Acc@5: 0.9370
+2022-01-24 02:05:52,473 Val Step[0650/1563], Avg Loss: 1.0524, Avg Acc@1: 0.7759, Avg Acc@5: 0.9370
+2022-01-24 02:05:54,420 Val Step[0700/1563], Avg Loss: 1.0504, Avg Acc@1: 0.7764, Avg Acc@5: 0.9374
+2022-01-24 02:05:56,184 Val Step[0750/1563], Avg Loss: 1.0566, Avg Acc@1: 0.7746, Avg Acc@5: 0.9370
+2022-01-24 02:05:58,035 Val Step[0800/1563], Avg Loss: 1.0564, Avg Acc@1: 0.7754, Avg Acc@5: 0.9366
+2022-01-24 02:05:59,954 Val Step[0850/1563], Avg Loss: 1.0579, Avg Acc@1: 0.7752, Avg Acc@5: 0.9364
+2022-01-24 02:06:02,001 Val Step[0900/1563], Avg Loss: 1.0553, Avg Acc@1: 0.7757, Avg Acc@5: 0.9368
+2022-01-24 02:06:04,024 Val Step[0950/1563], Avg Loss: 1.0546, Avg Acc@1: 0.7763, Avg Acc@5: 0.9370
+2022-01-24 02:06:06,055 Val Step[1000/1563], Avg Loss: 1.0562, Avg Acc@1: 0.7761, Avg Acc@5: 0.9367
+2022-01-24 02:06:08,061 Val Step[1050/1563], Avg Loss: 1.0584, Avg Acc@1: 0.7753, Avg Acc@5: 0.9364
+2022-01-24 02:06:10,102 Val Step[1100/1563], Avg Loss: 1.0584, Avg Acc@1: 0.7748, Avg Acc@5: 0.9366
+2022-01-24 02:06:12,167 Val Step[1150/1563], Avg Loss: 1.0559, Avg Acc@1: 0.7750, Avg Acc@5: 0.9369
+2022-01-24 02:06:14,241 Val Step[1200/1563], Avg Loss: 1.0549, Avg Acc@1: 0.7758, Avg Acc@5: 0.9370
+2022-01-24 02:06:16,300 Val Step[1250/1563], Avg Loss: 1.0545, Avg Acc@1: 0.7756, Avg Acc@5: 0.9373
+2022-01-24 02:06:18,370 Val Step[1300/1563], Avg Loss: 1.0577, Avg Acc@1: 0.7754, Avg Acc@5: 0.9369
+2022-01-24 02:06:20,517 Val Step[1350/1563], Avg Loss: 1.0590, Avg Acc@1: 0.7748, Avg Acc@5: 0.9368
+2022-01-24 02:06:22,613 Val Step[1400/1563], Avg Loss: 1.0585, Avg Acc@1: 0.7745, Avg Acc@5: 0.9367
+2022-01-24 02:06:24,729 Val Step[1450/1563], Avg Loss: 1.0574, Avg Acc@1: 0.7750, Avg Acc@5: 0.9367
+2022-01-24 02:06:26,832 Val Step[1500/1563], Avg Loss: 1.0574, Avg Acc@1: 0.7751, Avg Acc@5: 0.9368
+2022-01-24 02:06:28,841 Val Step[1550/1563], Avg Loss: 1.0578, Avg Acc@1: 0.7749, Avg Acc@5: 0.9368
+2022-01-24 02:06:30,914 ----- Epoch[018/050], Validation Loss: 1.0577, Validation Acc@1: 0.7749, Validation Acc@5: 0.9368, time: 149.35
+2022-01-24 02:44:52,953 ----- Epoch[019/050], Train Loss: 2.8887, Train Acc: 0.4876, time: 2302.03, Best Val(epoch14) Acc@1: 0.7757
+2022-01-24 03:23:01,029 ----- Epoch[020/050], Train Loss: 2.8926, Train Acc: 0.4845, time: 2288.07, Best Val(epoch14) Acc@1: 0.7757
+2022-01-24 03:23:01,029 ----- Validation after Epoch: 20
+2022-01-24 03:24:11,172 Val Step[0000/1563], Avg Loss: 0.8312, Avg Acc@1: 0.7812, Avg Acc@5: 1.0000
+2022-01-24 03:24:13,170 Val Step[0050/1563], Avg Loss: 1.0008, Avg Acc@1: 0.7800, Avg Acc@5: 0.9418
+2022-01-24 03:24:15,001 Val Step[0100/1563], Avg Loss: 1.0313, Avg Acc@1: 0.7822, Avg Acc@5: 0.9381
+2022-01-24 03:24:16,941 Val Step[0150/1563], Avg Loss: 1.0340, Avg Acc@1: 0.7819, Avg Acc@5: 0.9363
+2022-01-24 03:24:18,787 Val Step[0200/1563], Avg Loss: 1.0346, Avg Acc@1: 0.7820, Avg Acc@5: 0.9358
+2022-01-24 03:24:20,733 Val Step[0250/1563], Avg Loss: 1.0245, Avg Acc@1: 0.7816, Avg Acc@5: 0.9376
+2022-01-24 03:24:22,659 Val Step[0300/1563], Avg Loss: 1.0244, Avg Acc@1: 0.7820, Avg Acc@5: 0.9366
+2022-01-24 03:24:24,559 Val Step[0350/1563], Avg Loss: 1.0287, Avg Acc@1: 0.7815, Avg Acc@5: 0.9363
+2022-01-24 03:24:26,450 Val Step[0400/1563], Avg Loss: 1.0282, Avg Acc@1: 0.7823, Avg Acc@5: 0.9361
+2022-01-24 03:24:28,392 Val Step[0450/1563], Avg Loss: 1.0329, Avg Acc@1: 0.7794, Avg Acc@5: 0.9360
+2022-01-24 03:24:30,331 Val Step[0500/1563], Avg Loss: 1.0358, Avg Acc@1: 0.7788, Avg Acc@5: 0.9364
+2022-01-24 03:24:32,230 Val Step[0550/1563], Avg Loss: 1.0348, Avg Acc@1: 0.7780, Avg Acc@5: 0.9366
+2022-01-24 03:24:34,110 Val Step[0600/1563], Avg Loss: 1.0335, Avg Acc@1: 0.7782, Avg Acc@5: 0.9367
+2022-01-24 03:24:35,964 Val Step[0650/1563], Avg Loss: 1.0338, Avg Acc@1: 0.7781, Avg Acc@5: 0.9369
+2022-01-24 03:24:37,925 Val Step[0700/1563], Avg Loss: 1.0317, Avg Acc@1: 0.7784, Avg Acc@5: 0.9375
+2022-01-24 03:24:40,010 Val Step[0750/1563], Avg Loss: 1.0378, Avg Acc@1: 0.7763, Avg Acc@5: 0.9371
+2022-01-24 03:24:42,076 Val Step[0800/1563], Avg Loss: 1.0379, Avg Acc@1: 0.7770, Avg Acc@5: 0.9368
+2022-01-24 03:24:44,094 Val Step[0850/1563], Avg Loss: 1.0393, Avg Acc@1: 0.7768, Avg Acc@5: 0.9366
+2022-01-24 03:24:46,092 Val Step[0900/1563], Avg Loss: 1.0363, Avg Acc@1: 0.7773, Avg Acc@5: 0.9370
+2022-01-24 03:24:48,104 Val Step[0950/1563], Avg Loss: 1.0359, Avg Acc@1: 0.7778, Avg Acc@5: 0.9371
+2022-01-24 03:24:50,168 Val Step[1000/1563], Avg Loss: 1.0376, Avg Acc@1: 0.7773, Avg Acc@5: 0.9369
+2022-01-24 03:24:52,257 Val Step[1050/1563], Avg Loss: 1.0397, Avg Acc@1: 0.7768, Avg Acc@5: 0.9365
+2022-01-24 03:24:54,189 Val Step[1100/1563], Avg Loss: 1.0398, Avg Acc@1: 0.7762, Avg Acc@5: 0.9366
+2022-01-24 03:24:56,022 Val Step[1150/1563], Avg Loss: 1.0374, Avg Acc@1: 0.7766, Avg Acc@5: 0.9370
+2022-01-24 03:24:57,929 Val Step[1200/1563], Avg Loss: 1.0364, Avg Acc@1: 0.7772, Avg Acc@5: 0.9370
+2022-01-24 03:24:59,808 Val Step[1250/1563], Avg Loss: 1.0361, Avg Acc@1: 0.7768, Avg Acc@5: 0.9373
+2022-01-24 03:25:01,622 Val Step[1300/1563], Avg Loss: 1.0393, Avg Acc@1: 0.7766, Avg Acc@5: 0.9369
+2022-01-24 03:25:03,468 Val Step[1350/1563], Avg Loss: 1.0407, Avg Acc@1: 0.7762, Avg Acc@5: 0.9369
+2022-01-24 03:25:05,371 Val Step[1400/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7760, Avg Acc@5: 0.9368
+2022-01-24 03:25:07,174 Val Step[1450/1563], Avg Loss: 1.0389, Avg Acc@1: 0.7762, Avg Acc@5: 0.9369
+2022-01-24 03:25:08,989 Val Step[1500/1563], Avg Loss: 1.0388, Avg Acc@1: 0.7763, Avg Acc@5: 0.9372
+2022-01-24 03:25:10,777 Val Step[1550/1563], Avg Loss: 1.0391, Avg Acc@1: 0.7761, Avg Acc@5: 0.9371
+2022-01-24 03:25:12,620 ----- Epoch[020/050], Validation Loss: 1.0389, Validation Acc@1: 0.7761, Validation Acc@5: 0.9372, time: 131.59
+2022-01-24 04:03:19,469 ----- Epoch[021/050], Train Loss: 2.8867, Train Acc: 0.4939, time: 2285.60, Best Val(epoch20) Acc@1: 0.7761
+2022-01-24 04:41:42,948 ----- Epoch[022/050], Train Loss: 2.8911, Train Acc: 0.4909, time: 2303.48, Best Val(epoch20) Acc@1: 0.7761
+2022-01-24 04:41:42,949 ----- Validation after Epoch: 22
+2022-01-24 04:42:48,978 Val Step[0000/1563], Avg Loss: 0.8208, Avg Acc@1: 0.8438, Avg Acc@5: 1.0000
+2022-01-24 04:42:51,122 Val Step[0050/1563], Avg Loss: 1.0151, Avg Acc@1: 0.7794, Avg Acc@5: 0.9430
+2022-01-24 04:42:52,901 Val Step[0100/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7834, Avg Acc@5: 0.9390
+2022-01-24 04:42:54,684 Val Step[0150/1563], Avg Loss: 1.0497, Avg Acc@1: 0.7833, Avg Acc@5: 0.9363
+2022-01-24 04:42:56,492 Val Step[0200/1563], Avg Loss: 1.0499, Avg Acc@1: 0.7831, Avg Acc@5: 0.9367
+2022-01-24 04:42:58,283 Val Step[0250/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7819, Avg Acc@5: 0.9381
+2022-01-24 04:43:00,079 Val Step[0300/1563], Avg Loss: 1.0399, Avg Acc@1: 0.7820, Avg Acc@5: 0.9367
+2022-01-24 04:43:01,879 Val Step[0350/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7805, Avg Acc@5: 0.9363
+2022-01-24 04:43:03,669 Val Step[0400/1563], Avg Loss: 1.0439, Avg Acc@1: 0.7809, Avg Acc@5: 0.9363
+2022-01-24 04:43:05,491 Val Step[0450/1563], Avg Loss: 1.0487, Avg Acc@1: 0.7784, Avg Acc@5: 0.9358
+2022-01-24 04:43:07,390 Val Step[0500/1563], Avg Loss: 1.0514, Avg Acc@1: 0.7778, Avg Acc@5: 0.9362
+2022-01-24 04:43:09,223 Val Step[0550/1563], Avg Loss: 1.0503, Avg Acc@1: 0.7772, Avg Acc@5: 0.9364
+2022-01-24 04:43:11,042 Val Step[0600/1563], Avg Loss: 1.0487, Avg Acc@1: 0.7773, Avg Acc@5: 0.9365
+2022-01-24 04:43:12,840 Val Step[0650/1563], Avg Loss: 1.0488, Avg Acc@1: 0.7771, Avg Acc@5: 0.9369
+2022-01-24 04:43:14,687 Val Step[0700/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7773, Avg Acc@5: 0.9374
+2022-01-24 04:43:16,556 Val Step[0750/1563], Avg Loss: 1.0528, Avg Acc@1: 0.7755, Avg Acc@5: 0.9370
+2022-01-24 04:43:18,388 Val Step[0800/1563], Avg Loss: 1.0527, Avg Acc@1: 0.7761, Avg Acc@5: 0.9370
+2022-01-24 04:43:20,242 Val Step[0850/1563], Avg Loss: 1.0543, Avg Acc@1: 0.7759, Avg Acc@5: 0.9369
+2022-01-24 04:43:22,086 Val Step[0900/1563], Avg Loss: 1.0514, Avg Acc@1: 0.7762, Avg Acc@5: 0.9372
+2022-01-24 04:43:23,961 Val Step[0950/1563], Avg Loss: 1.0511, Avg Acc@1: 0.7768, Avg Acc@5: 0.9373
+2022-01-24 04:43:25,787 Val Step[1000/1563], Avg Loss: 1.0528, Avg Acc@1: 0.7765, Avg Acc@5: 0.9370
+2022-01-24 04:43:27,592 Val Step[1050/1563], Avg Loss: 1.0546, Avg Acc@1: 0.7757, Avg Acc@5: 0.9368
+2022-01-24 04:43:29,389 Val Step[1100/1563], Avg Loss: 1.0548, Avg Acc@1: 0.7751, Avg Acc@5: 0.9369
+2022-01-24 04:43:31,227 Val Step[1150/1563], Avg Loss: 1.0522, Avg Acc@1: 0.7756, Avg Acc@5: 0.9372
+2022-01-24 04:43:33,115 Val Step[1200/1563], Avg Loss: 1.0513, Avg Acc@1: 0.7763, Avg Acc@5: 0.9372
+2022-01-24 04:43:35,032 Val Step[1250/1563], Avg Loss: 1.0512, Avg Acc@1: 0.7758, Avg Acc@5: 0.9375
+2022-01-24 04:43:36,897 Val Step[1300/1563], Avg Loss: 1.0543, Avg Acc@1: 0.7757, Avg Acc@5: 0.9371
+2022-01-24 04:43:38,719 Val Step[1350/1563], Avg Loss: 1.0557, Avg Acc@1: 0.7751, Avg Acc@5: 0.9370
+2022-01-24 04:43:40,567 Val Step[1400/1563], Avg Loss: 1.0553, Avg Acc@1: 0.7747, Avg Acc@5: 0.9370
+2022-01-24 04:43:42,368 Val Step[1450/1563], Avg Loss: 1.0543, Avg Acc@1: 0.7751, Avg Acc@5: 0.9370
+2022-01-24 04:43:44,262 Val Step[1500/1563], Avg Loss: 1.0543, Avg Acc@1: 0.7753, Avg Acc@5: 0.9372
+2022-01-24 04:43:46,285 Val Step[1550/1563], Avg Loss: 1.0547, Avg Acc@1: 0.7749, Avg Acc@5: 0.9373
+2022-01-24 04:43:48,313 ----- Epoch[022/050], Validation Loss: 1.0545, Validation Acc@1: 0.7750, Validation Acc@5: 0.9373, time: 125.36
+2022-01-24 05:22:15,477 ----- Epoch[023/050], Train Loss: 2.8870, Train Acc: 0.4868, time: 2307.16, Best Val(epoch20) Acc@1: 0.7761
+2022-01-24 06:00:36,797 ----- Epoch[024/050], Train Loss: 2.8819, Train Acc: 0.4884, time: 2301.32, Best Val(epoch20) Acc@1: 0.7761
+2022-01-24 06:00:36,797 ----- Validation after Epoch: 24
+2022-01-24 06:01:49,708 Val Step[0000/1563], Avg Loss: 0.8334, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 06:01:51,586 Val Step[0050/1563], Avg Loss: 1.0090, Avg Acc@1: 0.7819, Avg Acc@5: 0.9387
+2022-01-24 06:01:53,373 Val Step[0100/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7816, Avg Acc@5: 0.9372
+2022-01-24 06:01:55,155 Val Step[0150/1563], Avg Loss: 1.0446, Avg Acc@1: 0.7804, Avg Acc@5: 0.9358
+2022-01-24 06:01:56,954 Val Step[0200/1563], Avg Loss: 1.0438, Avg Acc@1: 0.7819, Avg Acc@5: 0.9364
+2022-01-24 06:01:58,824 Val Step[0250/1563], Avg Loss: 1.0343, Avg Acc@1: 0.7801, Avg Acc@5: 0.9380
+2022-01-24 06:02:01,021 Val Step[0300/1563], Avg Loss: 1.0343, Avg Acc@1: 0.7800, Avg Acc@5: 0.9372
+2022-01-24 06:02:03,071 Val Step[0350/1563], Avg Loss: 1.0387, Avg Acc@1: 0.7796, Avg Acc@5: 0.9368
+2022-01-24 06:02:05,141 Val Step[0400/1563], Avg Loss: 1.0382, Avg Acc@1: 0.7802, Avg Acc@5: 0.9365
+2022-01-24 06:02:07,191 Val Step[0450/1563], Avg Loss: 1.0428, Avg Acc@1: 0.7782, Avg Acc@5: 0.9360
+2022-01-24 06:02:09,215 Val Step[0500/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7773, Avg Acc@5: 0.9364
+2022-01-24 06:02:11,245 Val Step[0550/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7763, Avg Acc@5: 0.9366
+2022-01-24 06:02:13,242 Val Step[0600/1563], Avg Loss: 1.0428, Avg Acc@1: 0.7766, Avg Acc@5: 0.9368
+2022-01-24 06:02:15,247 Val Step[0650/1563], Avg Loss: 1.0431, Avg Acc@1: 0.7764, Avg Acc@5: 0.9371
+2022-01-24 06:02:17,266 Val Step[0700/1563], Avg Loss: 1.0409, Avg Acc@1: 0.7771, Avg Acc@5: 0.9376
+2022-01-24 06:02:19,334 Val Step[0750/1563], Avg Loss: 1.0472, Avg Acc@1: 0.7748, Avg Acc@5: 0.9373
+2022-01-24 06:02:21,408 Val Step[0800/1563], Avg Loss: 1.0470, Avg Acc@1: 0.7757, Avg Acc@5: 0.9373
+2022-01-24 06:02:23,453 Val Step[0850/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7757, Avg Acc@5: 0.9372
+2022-01-24 06:02:25,483 Val Step[0900/1563], Avg Loss: 1.0456, Avg Acc@1: 0.7761, Avg Acc@5: 0.9375
+2022-01-24 06:02:27,503 Val Step[0950/1563], Avg Loss: 1.0451, Avg Acc@1: 0.7769, Avg Acc@5: 0.9378
+2022-01-24 06:02:29,514 Val Step[1000/1563], Avg Loss: 1.0467, Avg Acc@1: 0.7767, Avg Acc@5: 0.9374
+2022-01-24 06:02:31,550 Val Step[1050/1563], Avg Loss: 1.0486, Avg Acc@1: 0.7759, Avg Acc@5: 0.9371
+2022-01-24 06:02:33,554 Val Step[1100/1563], Avg Loss: 1.0487, Avg Acc@1: 0.7754, Avg Acc@5: 0.9372
+2022-01-24 06:02:35,570 Val Step[1150/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7757, Avg Acc@5: 0.9375
+2022-01-24 06:02:37,600 Val Step[1200/1563], Avg Loss: 1.0454, Avg Acc@1: 0.7764, Avg Acc@5: 0.9375
+2022-01-24 06:02:39,643 Val Step[1250/1563], Avg Loss: 1.0452, Avg Acc@1: 0.7762, Avg Acc@5: 0.9378
+2022-01-24 06:02:41,709 Val Step[1300/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7763, Avg Acc@5: 0.9374
+2022-01-24 06:02:43,766 Val Step[1350/1563], Avg Loss: 1.0496, Avg Acc@1: 0.7758, Avg Acc@5: 0.9373
+2022-01-24 06:02:45,809 Val Step[1400/1563], Avg Loss: 1.0492, Avg Acc@1: 0.7755, Avg Acc@5: 0.9373
+2022-01-24 06:02:47,855 Val Step[1450/1563], Avg Loss: 1.0480, Avg Acc@1: 0.7760, Avg Acc@5: 0.9373
+2022-01-24 06:02:49,893 Val Step[1500/1563], Avg Loss: 1.0480, Avg Acc@1: 0.7761, Avg Acc@5: 0.9375
+2022-01-24 06:02:51,905 Val Step[1550/1563], Avg Loss: 1.0484, Avg Acc@1: 0.7759, Avg Acc@5: 0.9375
+2022-01-24 06:02:53,749 ----- Epoch[024/050], Validation Loss: 1.0482, Validation Acc@1: 0.7758, Validation Acc@5: 0.9375, time: 136.95
+2022-01-24 06:41:15,562 ----- Epoch[025/050], Train Loss: 2.9006, Train Acc: 0.4841, time: 2301.81, Best Val(epoch20) Acc@1: 0.7761
+2022-01-24 07:19:25,910 ----- Epoch[026/050], Train Loss: 2.8923, Train Acc: 0.4832, time: 2290.34, Best Val(epoch20) Acc@1: 0.7761
+2022-01-24 07:19:25,910 ----- Validation after Epoch: 26
+2022-01-24 07:20:30,659 Val Step[0000/1563], Avg Loss: 0.8272, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 07:20:32,522 Val Step[0050/1563], Avg Loss: 1.0009, Avg Acc@1: 0.7800, Avg Acc@5: 0.9424
+2022-01-24 07:20:34,339 Val Step[0100/1563], Avg Loss: 1.0333, Avg Acc@1: 0.7828, Avg Acc@5: 0.9387
+2022-01-24 07:20:36,176 Val Step[0150/1563], Avg Loss: 1.0366, Avg Acc@1: 0.7833, Avg Acc@5: 0.9371
+2022-01-24 07:20:38,079 Val Step[0200/1563], Avg Loss: 1.0370, Avg Acc@1: 0.7844, Avg Acc@5: 0.9372
+2022-01-24 07:20:39,894 Val Step[0250/1563], Avg Loss: 1.0268, Avg Acc@1: 0.7829, Avg Acc@5: 0.9384
+2022-01-24 07:20:41,712 Val Step[0300/1563], Avg Loss: 1.0263, Avg Acc@1: 0.7829, Avg Acc@5: 0.9372
+2022-01-24 07:20:43,514 Val Step[0350/1563], Avg Loss: 1.0313, Avg Acc@1: 0.7819, Avg Acc@5: 0.9363
+2022-01-24 07:20:45,318 Val Step[0400/1563], Avg Loss: 1.0312, Avg Acc@1: 0.7827, Avg Acc@5: 0.9358
+2022-01-24 07:20:47,123 Val Step[0450/1563], Avg Loss: 1.0358, Avg Acc@1: 0.7799, Avg Acc@5: 0.9357
+2022-01-24 07:20:49,032 Val Step[0500/1563], Avg Loss: 1.0384, Avg Acc@1: 0.7795, Avg Acc@5: 0.9361
+2022-01-24 07:20:50,837 Val Step[0550/1563], Avg Loss: 1.0376, Avg Acc@1: 0.7786, Avg Acc@5: 0.9361
+2022-01-24 07:20:52,628 Val Step[0600/1563], Avg Loss: 1.0361, Avg Acc@1: 0.7782, Avg Acc@5: 0.9363
+2022-01-24 07:20:54,458 Val Step[0650/1563], Avg Loss: 1.0367, Avg Acc@1: 0.7782, Avg Acc@5: 0.9367
+2022-01-24 07:20:56,290 Val Step[0700/1563], Avg Loss: 1.0345, Avg Acc@1: 0.7788, Avg Acc@5: 0.9374
+2022-01-24 07:20:58,208 Val Step[0750/1563], Avg Loss: 1.0409, Avg Acc@1: 0.7763, Avg Acc@5: 0.9369
+2022-01-24 07:21:00,138 Val Step[0800/1563], Avg Loss: 1.0407, Avg Acc@1: 0.7771, Avg Acc@5: 0.9369
+2022-01-24 07:21:01,968 Val Step[0850/1563], Avg Loss: 1.0421, Avg Acc@1: 0.7769, Avg Acc@5: 0.9368
+2022-01-24 07:21:03,748 Val Step[0900/1563], Avg Loss: 1.0391, Avg Acc@1: 0.7772, Avg Acc@5: 0.9373
+2022-01-24 07:21:05,528 Val Step[0950/1563], Avg Loss: 1.0386, Avg Acc@1: 0.7780, Avg Acc@5: 0.9374
+2022-01-24 07:21:07,330 Val Step[1000/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7777, Avg Acc@5: 0.9371
+2022-01-24 07:21:09,106 Val Step[1050/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7770, Avg Acc@5: 0.9367
+2022-01-24 07:21:11,155 Val Step[1100/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7766, Avg Acc@5: 0.9370
+2022-01-24 07:21:13,357 Val Step[1150/1563], Avg Loss: 1.0398, Avg Acc@1: 0.7768, Avg Acc@5: 0.9373
+2022-01-24 07:21:15,395 Val Step[1200/1563], Avg Loss: 1.0389, Avg Acc@1: 0.7774, Avg Acc@5: 0.9374
+2022-01-24 07:21:17,283 Val Step[1250/1563], Avg Loss: 1.0387, Avg Acc@1: 0.7770, Avg Acc@5: 0.9376
+2022-01-24 07:21:19,065 Val Step[1300/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7767, Avg Acc@5: 0.9373
+2022-01-24 07:21:20,906 Val Step[1350/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7761, Avg Acc@5: 0.9372
+2022-01-24 07:21:22,733 Val Step[1400/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7759, Avg Acc@5: 0.9372
+2022-01-24 07:21:24,558 Val Step[1450/1563], Avg Loss: 1.0413, Avg Acc@1: 0.7762, Avg Acc@5: 0.9373
+2022-01-24 07:21:26,383 Val Step[1500/1563], Avg Loss: 1.0412, Avg Acc@1: 0.7765, Avg Acc@5: 0.9374
+2022-01-24 07:21:28,106 Val Step[1550/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7762, Avg Acc@5: 0.9372
+2022-01-24 07:21:30,021 ----- Epoch[026/050], Validation Loss: 1.0416, Validation Acc@1: 0.7761, Validation Acc@5: 0.9373, time: 124.11
+2022-01-24 07:59:56,850 ----- Epoch[027/050], Train Loss: 2.8930, Train Acc: 0.4883, time: 2305.57, Best Val(epoch26) Acc@1: 0.7761
+2022-01-24 08:38:01,851 ----- Epoch[028/050], Train Loss: 2.8827, Train Acc: 0.4896, time: 2285.00, Best Val(epoch26) Acc@1: 0.7761
+2022-01-24 08:38:01,851 ----- Validation after Epoch: 28
+2022-01-24 08:39:10,452 Val Step[0000/1563], Avg Loss: 0.8289, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 08:39:12,387 Val Step[0050/1563], Avg Loss: 1.0033, Avg Acc@1: 0.7831, Avg Acc@5: 0.9430
+2022-01-24 08:39:14,306 Val Step[0100/1563], Avg Loss: 1.0367, Avg Acc@1: 0.7843, Avg Acc@5: 0.9384
+2022-01-24 08:39:16,115 Val Step[0150/1563], Avg Loss: 1.0404, Avg Acc@1: 0.7833, Avg Acc@5: 0.9361
+2022-01-24 08:39:17,959 Val Step[0200/1563], Avg Loss: 1.0399, Avg Acc@1: 0.7836, Avg Acc@5: 0.9370
+2022-01-24 08:39:19,808 Val Step[0250/1563], Avg Loss: 1.0298, Avg Acc@1: 0.7829, Avg Acc@5: 0.9384
+2022-01-24 08:39:21,631 Val Step[0300/1563], Avg Loss: 1.0294, Avg Acc@1: 0.7827, Avg Acc@5: 0.9371
+2022-01-24 08:39:23,402 Val Step[0350/1563], Avg Loss: 1.0344, Avg Acc@1: 0.7818, Avg Acc@5: 0.9365
+2022-01-24 08:39:25,236 Val Step[0400/1563], Avg Loss: 1.0345, Avg Acc@1: 0.7824, Avg Acc@5: 0.9366
+2022-01-24 08:39:27,102 Val Step[0450/1563], Avg Loss: 1.0388, Avg Acc@1: 0.7799, Avg Acc@5: 0.9364
+2022-01-24 08:39:28,905 Val Step[0500/1563], Avg Loss: 1.0414, Avg Acc@1: 0.7796, Avg Acc@5: 0.9368
+2022-01-24 08:39:30,704 Val Step[0550/1563], Avg Loss: 1.0405, Avg Acc@1: 0.7788, Avg Acc@5: 0.9368
+2022-01-24 08:39:32,504 Val Step[0600/1563], Avg Loss: 1.0389, Avg Acc@1: 0.7784, Avg Acc@5: 0.9369
+2022-01-24 08:39:34,362 Val Step[0650/1563], Avg Loss: 1.0395, Avg Acc@1: 0.7780, Avg Acc@5: 0.9371
+2022-01-24 08:39:36,523 Val Step[0700/1563], Avg Loss: 1.0375, Avg Acc@1: 0.7781, Avg Acc@5: 0.9374
+2022-01-24 08:39:38,640 Val Step[0750/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7761, Avg Acc@5: 0.9372
+2022-01-24 08:39:40,553 Val Step[0800/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7768, Avg Acc@5: 0.9371
+2022-01-24 08:39:42,320 Val Step[0850/1563], Avg Loss: 1.0455, Avg Acc@1: 0.7766, Avg Acc@5: 0.9369
+2022-01-24 08:39:44,198 Val Step[0900/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7771, Avg Acc@5: 0.9373
+2022-01-24 08:39:46,315 Val Step[0950/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7777, Avg Acc@5: 0.9375
+2022-01-24 08:39:48,096 Val Step[1000/1563], Avg Loss: 1.0437, Avg Acc@1: 0.7775, Avg Acc@5: 0.9372
+2022-01-24 08:39:50,111 Val Step[1050/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7769, Avg Acc@5: 0.9367
+2022-01-24 08:39:51,983 Val Step[1100/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7763, Avg Acc@5: 0.9369
+2022-01-24 08:39:53,766 Val Step[1150/1563], Avg Loss: 1.0433, Avg Acc@1: 0.7766, Avg Acc@5: 0.9373
+2022-01-24 08:39:55,612 Val Step[1200/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7773, Avg Acc@5: 0.9372
+2022-01-24 08:39:57,407 Val Step[1250/1563], Avg Loss: 1.0422, Avg Acc@1: 0.7769, Avg Acc@5: 0.9375
+2022-01-24 08:39:59,188 Val Step[1300/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7767, Avg Acc@5: 0.9371
+2022-01-24 08:40:00,992 Val Step[1350/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7762, Avg Acc@5: 0.9372
+2022-01-24 08:40:02,800 Val Step[1400/1563], Avg Loss: 1.0460, Avg Acc@1: 0.7759, Avg Acc@5: 0.9372
+2022-01-24 08:40:04,610 Val Step[1450/1563], Avg Loss: 1.0449, Avg Acc@1: 0.7764, Avg Acc@5: 0.9372
+2022-01-24 08:40:06,410 Val Step[1500/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7765, Avg Acc@5: 0.9375
+2022-01-24 08:40:08,154 Val Step[1550/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7763, Avg Acc@5: 0.9374
+2022-01-24 08:40:10,046 ----- Epoch[028/050], Validation Loss: 1.0452, Validation Acc@1: 0.7762, Validation Acc@5: 0.9375, time: 128.19
+2022-01-24 09:18:10,723 ----- Epoch[029/050], Train Loss: 2.8792, Train Acc: 0.4825, time: 2279.14, Best Val(epoch28) Acc@1: 0.7762
+2022-01-24 09:56:11,787 ----- Epoch[030/050], Train Loss: 2.8804, Train Acc: 0.4843, time: 2281.06, Best Val(epoch28) Acc@1: 0.7762
+2022-01-24 09:56:11,787 ----- Validation after Epoch: 30
+2022-01-24 09:57:25,190 Val Step[0000/1563], Avg Loss: 0.8297, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 09:57:27,179 Val Step[0050/1563], Avg Loss: 1.0035, Avg Acc@1: 0.7794, Avg Acc@5: 0.9418
+2022-01-24 09:57:28,974 Val Step[0100/1563], Avg Loss: 1.0377, Avg Acc@1: 0.7831, Avg Acc@5: 0.9369
+2022-01-24 09:57:30,777 Val Step[0150/1563], Avg Loss: 1.0412, Avg Acc@1: 0.7827, Avg Acc@5: 0.9348
+2022-01-24 09:57:32,598 Val Step[0200/1563], Avg Loss: 1.0409, Avg Acc@1: 0.7844, Avg Acc@5: 0.9358
+2022-01-24 09:57:34,387 Val Step[0250/1563], Avg Loss: 1.0309, Avg Acc@1: 0.7829, Avg Acc@5: 0.9376
+2022-01-24 09:57:36,206 Val Step[0300/1563], Avg Loss: 1.0313, Avg Acc@1: 0.7826, Avg Acc@5: 0.9365
+2022-01-24 09:57:38,035 Val Step[0350/1563], Avg Loss: 1.0363, Avg Acc@1: 0.7825, Avg Acc@5: 0.9358
+2022-01-24 09:57:39,928 Val Step[0400/1563], Avg Loss: 1.0357, Avg Acc@1: 0.7831, Avg Acc@5: 0.9356
+2022-01-24 09:57:41,782 Val Step[0450/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7810, Avg Acc@5: 0.9352
+2022-01-24 09:57:43,607 Val Step[0500/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7804, Avg Acc@5: 0.9359
+2022-01-24 09:57:45,400 Val Step[0550/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7799, Avg Acc@5: 0.9361
+2022-01-24 09:57:47,251 Val Step[0600/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7795, Avg Acc@5: 0.9361
+2022-01-24 09:57:49,138 Val Step[0650/1563], Avg Loss: 1.0408, Avg Acc@1: 0.7792, Avg Acc@5: 0.9364
+2022-01-24 09:57:51,041 Val Step[0700/1563], Avg Loss: 1.0384, Avg Acc@1: 0.7795, Avg Acc@5: 0.9371
+2022-01-24 09:57:52,884 Val Step[0750/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7771, Avg Acc@5: 0.9368
+2022-01-24 09:57:54,736 Val Step[0800/1563], Avg Loss: 1.0447, Avg Acc@1: 0.7777, Avg Acc@5: 0.9366
+2022-01-24 09:57:56,522 Val Step[0850/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7775, Avg Acc@5: 0.9365
+2022-01-24 09:57:58,325 Val Step[0900/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7781, Avg Acc@5: 0.9369
+2022-01-24 09:58:00,119 Val Step[0950/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7787, Avg Acc@5: 0.9371
+2022-01-24 09:58:02,081 Val Step[1000/1563], Avg Loss: 1.0443, Avg Acc@1: 0.7783, Avg Acc@5: 0.9369
+2022-01-24 09:58:03,905 Val Step[1050/1563], Avg Loss: 1.0463, Avg Acc@1: 0.7776, Avg Acc@5: 0.9365
+2022-01-24 09:58:05,711 Val Step[1100/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7770, Avg Acc@5: 0.9367
+2022-01-24 09:58:07,499 Val Step[1150/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7772, Avg Acc@5: 0.9370
+2022-01-24 09:58:09,335 Val Step[1200/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7778, Avg Acc@5: 0.9371
+2022-01-24 09:58:11,253 Val Step[1250/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7775, Avg Acc@5: 0.9374
+2022-01-24 09:58:13,166 Val Step[1300/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7773, Avg Acc@5: 0.9371
+2022-01-24 09:58:14,938 Val Step[1350/1563], Avg Loss: 1.0470, Avg Acc@1: 0.7767, Avg Acc@5: 0.9370
+2022-01-24 09:58:16,748 Val Step[1400/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7764, Avg Acc@5: 0.9370
+2022-01-24 09:58:18,555 Val Step[1450/1563], Avg Loss: 1.0455, Avg Acc@1: 0.7767, Avg Acc@5: 0.9371
+2022-01-24 09:58:20,331 Val Step[1500/1563], Avg Loss: 1.0454, Avg Acc@1: 0.7770, Avg Acc@5: 0.9373
+2022-01-24 09:58:22,072 Val Step[1550/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7767, Avg Acc@5: 0.9372
+2022-01-24 09:58:24,053 ----- Epoch[030/050], Validation Loss: 1.0458, Validation Acc@1: 0.7766, Validation Acc@5: 0.9372, time: 132.26
+2022-01-24 10:36:32,544 ----- Epoch[031/050], Train Loss: 2.8734, Train Acc: 0.4994, time: 2286.95, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 11:14:53,654 ----- Epoch[032/050], Train Loss: 2.8873, Train Acc: 0.4966, time: 2301.11, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 11:14:53,654 ----- Validation after Epoch: 32
+2022-01-24 11:16:07,124 Val Step[0000/1563], Avg Loss: 0.8310, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 11:16:08,920 Val Step[0050/1563], Avg Loss: 1.0051, Avg Acc@1: 0.7806, Avg Acc@5: 0.9400
+2022-01-24 11:16:11,054 Val Step[0100/1563], Avg Loss: 1.0370, Avg Acc@1: 0.7834, Avg Acc@5: 0.9360
+2022-01-24 11:16:13,061 Val Step[0150/1563], Avg Loss: 1.0399, Avg Acc@1: 0.7831, Avg Acc@5: 0.9344
+2022-01-24 11:16:15,035 Val Step[0200/1563], Avg Loss: 1.0405, Avg Acc@1: 0.7834, Avg Acc@5: 0.9349
+2022-01-24 11:16:17,022 Val Step[0250/1563], Avg Loss: 1.0307, Avg Acc@1: 0.7824, Avg Acc@5: 0.9368
+2022-01-24 11:16:19,031 Val Step[0300/1563], Avg Loss: 1.0306, Avg Acc@1: 0.7824, Avg Acc@5: 0.9357
+2022-01-24 11:16:21,060 Val Step[0350/1563], Avg Loss: 1.0355, Avg Acc@1: 0.7815, Avg Acc@5: 0.9355
+2022-01-24 11:16:23,089 Val Step[0400/1563], Avg Loss: 1.0350, Avg Acc@1: 0.7822, Avg Acc@5: 0.9357
+2022-01-24 11:16:25,112 Val Step[0450/1563], Avg Loss: 1.0393, Avg Acc@1: 0.7794, Avg Acc@5: 0.9355
+2022-01-24 11:16:27,153 Val Step[0500/1563], Avg Loss: 1.0417, Avg Acc@1: 0.7788, Avg Acc@5: 0.9359
+2022-01-24 11:16:29,204 Val Step[0550/1563], Avg Loss: 1.0405, Avg Acc@1: 0.7778, Avg Acc@5: 0.9362
+2022-01-24 11:16:31,254 Val Step[0600/1563], Avg Loss: 1.0391, Avg Acc@1: 0.7776, Avg Acc@5: 0.9363
+2022-01-24 11:16:33,301 Val Step[0650/1563], Avg Loss: 1.0396, Avg Acc@1: 0.7772, Avg Acc@5: 0.9365
+2022-01-24 11:16:35,349 Val Step[0700/1563], Avg Loss: 1.0372, Avg Acc@1: 0.7775, Avg Acc@5: 0.9370
+2022-01-24 11:16:37,414 Val Step[0750/1563], Avg Loss: 1.0437, Avg Acc@1: 0.7756, Avg Acc@5: 0.9368
+2022-01-24 11:16:39,501 Val Step[0800/1563], Avg Loss: 1.0436, Avg Acc@1: 0.7761, Avg Acc@5: 0.9367
+2022-01-24 11:16:41,301 Val Step[0850/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7762, Avg Acc@5: 0.9364
+2022-01-24 11:16:43,062 Val Step[0900/1563], Avg Loss: 1.0419, Avg Acc@1: 0.7765, Avg Acc@5: 0.9369
+2022-01-24 11:16:44,906 Val Step[0950/1563], Avg Loss: 1.0414, Avg Acc@1: 0.7771, Avg Acc@5: 0.9370
+2022-01-24 11:16:46,825 Val Step[1000/1563], Avg Loss: 1.0431, Avg Acc@1: 0.7769, Avg Acc@5: 0.9368
+2022-01-24 11:16:48,678 Val Step[1050/1563], Avg Loss: 1.0450, Avg Acc@1: 0.7762, Avg Acc@5: 0.9365
+2022-01-24 11:16:50,581 Val Step[1100/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7755, Avg Acc@5: 0.9367
+2022-01-24 11:16:52,680 Val Step[1150/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7760, Avg Acc@5: 0.9370
+2022-01-24 11:16:54,741 Val Step[1200/1563], Avg Loss: 1.0419, Avg Acc@1: 0.7767, Avg Acc@5: 0.9370
+2022-01-24 11:16:56,781 Val Step[1250/1563], Avg Loss: 1.0417, Avg Acc@1: 0.7762, Avg Acc@5: 0.9373
+2022-01-24 11:16:58,803 Val Step[1300/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7760, Avg Acc@5: 0.9370
+2022-01-24 11:17:00,585 Val Step[1350/1563], Avg Loss: 1.0460, Avg Acc@1: 0.7754, Avg Acc@5: 0.9369
+2022-01-24 11:17:02,368 Val Step[1400/1563], Avg Loss: 1.0455, Avg Acc@1: 0.7751, Avg Acc@5: 0.9369
+2022-01-24 11:17:04,204 Val Step[1450/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7755, Avg Acc@5: 0.9370
+2022-01-24 11:17:06,054 Val Step[1500/1563], Avg Loss: 1.0443, Avg Acc@1: 0.7758, Avg Acc@5: 0.9373
+2022-01-24 11:17:07,859 Val Step[1550/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7755, Avg Acc@5: 0.9372
+2022-01-24 11:17:09,754 ----- Epoch[032/050], Validation Loss: 1.0447, Validation Acc@1: 0.7754, Validation Acc@5: 0.9372, time: 136.10
+2022-01-24 11:55:23,703 ----- Epoch[033/050], Train Loss: 2.8920, Train Acc: 0.4907, time: 2293.94, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 12:33:26,454 ----- Epoch[034/050], Train Loss: 2.8696, Train Acc: 0.4938, time: 2282.75, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 12:33:26,454 ----- Validation after Epoch: 34
+2022-01-24 12:34:35,975 Val Step[0000/1563], Avg Loss: 0.7983, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 12:34:37,931 Val Step[0050/1563], Avg Loss: 1.0018, Avg Acc@1: 0.7855, Avg Acc@5: 0.9430
+2022-01-24 12:34:40,059 Val Step[0100/1563], Avg Loss: 1.0336, Avg Acc@1: 0.7856, Avg Acc@5: 0.9394
+2022-01-24 12:34:42,199 Val Step[0150/1563], Avg Loss: 1.0384, Avg Acc@1: 0.7850, Avg Acc@5: 0.9369
+2022-01-24 12:34:44,305 Val Step[0200/1563], Avg Loss: 1.0385, Avg Acc@1: 0.7848, Avg Acc@5: 0.9370
+2022-01-24 12:34:46,400 Val Step[0250/1563], Avg Loss: 1.0289, Avg Acc@1: 0.7839, Avg Acc@5: 0.9381
+2022-01-24 12:34:48,376 Val Step[0300/1563], Avg Loss: 1.0291, Avg Acc@1: 0.7831, Avg Acc@5: 0.9367
+2022-01-24 12:34:50,302 Val Step[0350/1563], Avg Loss: 1.0338, Avg Acc@1: 0.7820, Avg Acc@5: 0.9363
+2022-01-24 12:34:52,243 Val Step[0400/1563], Avg Loss: 1.0332, Avg Acc@1: 0.7823, Avg Acc@5: 0.9365
+2022-01-24 12:34:54,068 Val Step[0450/1563], Avg Loss: 1.0376, Avg Acc@1: 0.7800, Avg Acc@5: 0.9365
+2022-01-24 12:34:55,885 Val Step[0500/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7793, Avg Acc@5: 0.9368
+2022-01-24 12:34:57,691 Val Step[0550/1563], Avg Loss: 1.0395, Avg Acc@1: 0.7782, Avg Acc@5: 0.9369
+2022-01-24 12:34:59,491 Val Step[0600/1563], Avg Loss: 1.0380, Avg Acc@1: 0.7781, Avg Acc@5: 0.9368
+2022-01-24 12:35:01,390 Val Step[0650/1563], Avg Loss: 1.0383, Avg Acc@1: 0.7780, Avg Acc@5: 0.9370
+2022-01-24 12:35:03,425 Val Step[0700/1563], Avg Loss: 1.0360, Avg Acc@1: 0.7782, Avg Acc@5: 0.9378
+2022-01-24 12:35:05,471 Val Step[0750/1563], Avg Loss: 1.0422, Avg Acc@1: 0.7763, Avg Acc@5: 0.9375
+2022-01-24 12:35:07,564 Val Step[0800/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7771, Avg Acc@5: 0.9375
+2022-01-24 12:35:09,656 Val Step[0850/1563], Avg Loss: 1.0433, Avg Acc@1: 0.7769, Avg Acc@5: 0.9373
+2022-01-24 12:35:11,697 Val Step[0900/1563], Avg Loss: 1.0406, Avg Acc@1: 0.7773, Avg Acc@5: 0.9376
+2022-01-24 12:35:13,771 Val Step[0950/1563], Avg Loss: 1.0401, Avg Acc@1: 0.7780, Avg Acc@5: 0.9376
+2022-01-24 12:35:15,775 Val Step[1000/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7778, Avg Acc@5: 0.9373
+2022-01-24 12:35:17,575 Val Step[1050/1563], Avg Loss: 1.0437, Avg Acc@1: 0.7772, Avg Acc@5: 0.9369
+2022-01-24 12:35:19,565 Val Step[1100/1563], Avg Loss: 1.0438, Avg Acc@1: 0.7767, Avg Acc@5: 0.9372
+2022-01-24 12:35:21,529 Val Step[1150/1563], Avg Loss: 1.0415, Avg Acc@1: 0.7769, Avg Acc@5: 0.9375
+2022-01-24 12:35:23,386 Val Step[1200/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7775, Avg Acc@5: 0.9374
+2022-01-24 12:35:25,191 Val Step[1250/1563], Avg Loss: 1.0400, Avg Acc@1: 0.7771, Avg Acc@5: 0.9376
+2022-01-24 12:35:26,989 Val Step[1300/1563], Avg Loss: 1.0430, Avg Acc@1: 0.7769, Avg Acc@5: 0.9373
+2022-01-24 12:35:28,794 Val Step[1350/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7763, Avg Acc@5: 0.9372
+2022-01-24 12:35:30,707 Val Step[1400/1563], Avg Loss: 1.0438, Avg Acc@1: 0.7758, Avg Acc@5: 0.9372
+2022-01-24 12:35:32,578 Val Step[1450/1563], Avg Loss: 1.0427, Avg Acc@1: 0.7761, Avg Acc@5: 0.9372
+2022-01-24 12:35:34,392 Val Step[1500/1563], Avg Loss: 1.0426, Avg Acc@1: 0.7763, Avg Acc@5: 0.9373
+2022-01-24 12:35:36,127 Val Step[1550/1563], Avg Loss: 1.0431, Avg Acc@1: 0.7761, Avg Acc@5: 0.9373
+2022-01-24 12:35:38,116 ----- Epoch[034/050], Validation Loss: 1.0430, Validation Acc@1: 0.7760, Validation Acc@5: 0.9373, time: 131.66
+2022-01-24 13:13:50,297 ----- Epoch[035/050], Train Loss: 2.8871, Train Acc: 0.4879, time: 2292.18, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 13:51:48,379 ----- Epoch[036/050], Train Loss: 2.8896, Train Acc: 0.4850, time: 2278.08, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 13:51:48,379 ----- Validation after Epoch: 36
+2022-01-24 13:53:01,688 Val Step[0000/1563], Avg Loss: 0.8024, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 13:53:03,509 Val Step[0050/1563], Avg Loss: 1.0016, Avg Acc@1: 0.7837, Avg Acc@5: 0.9412
+2022-01-24 13:53:05,450 Val Step[0100/1563], Avg Loss: 1.0343, Avg Acc@1: 0.7850, Avg Acc@5: 0.9372
+2022-01-24 13:53:07,240 Val Step[0150/1563], Avg Loss: 1.0380, Avg Acc@1: 0.7852, Avg Acc@5: 0.9352
+2022-01-24 13:53:09,154 Val Step[0200/1563], Avg Loss: 1.0382, Avg Acc@1: 0.7858, Avg Acc@5: 0.9356
+2022-01-24 13:53:10,954 Val Step[0250/1563], Avg Loss: 1.0286, Avg Acc@1: 0.7842, Avg Acc@5: 0.9379
+2022-01-24 13:53:12,840 Val Step[0300/1563], Avg Loss: 1.0288, Avg Acc@1: 0.7842, Avg Acc@5: 0.9367
+2022-01-24 13:53:14,774 Val Step[0350/1563], Avg Loss: 1.0335, Avg Acc@1: 0.7835, Avg Acc@5: 0.9363
+2022-01-24 13:53:16,586 Val Step[0400/1563], Avg Loss: 1.0330, Avg Acc@1: 0.7837, Avg Acc@5: 0.9359
+2022-01-24 13:53:18,431 Val Step[0450/1563], Avg Loss: 1.0374, Avg Acc@1: 0.7815, Avg Acc@5: 0.9358
+2022-01-24 13:53:20,366 Val Step[0500/1563], Avg Loss: 1.0398, Avg Acc@1: 0.7805, Avg Acc@5: 0.9361
+2022-01-24 13:53:22,281 Val Step[0550/1563], Avg Loss: 1.0389, Avg Acc@1: 0.7794, Avg Acc@5: 0.9362
+2022-01-24 13:53:24,183 Val Step[0600/1563], Avg Loss: 1.0375, Avg Acc@1: 0.7790, Avg Acc@5: 0.9363
+2022-01-24 13:53:26,052 Val Step[0650/1563], Avg Loss: 1.0380, Avg Acc@1: 0.7784, Avg Acc@5: 0.9365
+2022-01-24 13:53:27,966 Val Step[0700/1563], Avg Loss: 1.0356, Avg Acc@1: 0.7789, Avg Acc@5: 0.9371
+2022-01-24 13:53:29,808 Val Step[0750/1563], Avg Loss: 1.0419, Avg Acc@1: 0.7769, Avg Acc@5: 0.9370
+2022-01-24 13:53:31,623 Val Step[0800/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7774, Avg Acc@5: 0.9370
+2022-01-24 13:53:33,452 Val Step[0850/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7772, Avg Acc@5: 0.9368
+2022-01-24 13:53:35,361 Val Step[0900/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7776, Avg Acc@5: 0.9373
+2022-01-24 13:53:37,289 Val Step[0950/1563], Avg Loss: 1.0399, Avg Acc@1: 0.7782, Avg Acc@5: 0.9373
+2022-01-24 13:53:39,068 Val Step[1000/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7780, Avg Acc@5: 0.9370
+2022-01-24 13:53:40,838 Val Step[1050/1563], Avg Loss: 1.0437, Avg Acc@1: 0.7772, Avg Acc@5: 0.9366
+2022-01-24 13:53:42,654 Val Step[1100/1563], Avg Loss: 1.0438, Avg Acc@1: 0.7767, Avg Acc@5: 0.9368
+2022-01-24 13:53:44,510 Val Step[1150/1563], Avg Loss: 1.0415, Avg Acc@1: 0.7768, Avg Acc@5: 0.9372
+2022-01-24 13:53:46,401 Val Step[1200/1563], Avg Loss: 1.0404, Avg Acc@1: 0.7776, Avg Acc@5: 0.9372
+2022-01-24 13:53:48,356 Val Step[1250/1563], Avg Loss: 1.0400, Avg Acc@1: 0.7772, Avg Acc@5: 0.9374
+2022-01-24 13:53:50,173 Val Step[1300/1563], Avg Loss: 1.0430, Avg Acc@1: 0.7770, Avg Acc@5: 0.9372
+2022-01-24 13:53:51,981 Val Step[1350/1563], Avg Loss: 1.0443, Avg Acc@1: 0.7764, Avg Acc@5: 0.9372
+2022-01-24 13:53:53,781 Val Step[1400/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7759, Avg Acc@5: 0.9372
+2022-01-24 13:53:55,728 Val Step[1450/1563], Avg Loss: 1.0428, Avg Acc@1: 0.7764, Avg Acc@5: 0.9373
+2022-01-24 13:53:57,868 Val Step[1500/1563], Avg Loss: 1.0427, Avg Acc@1: 0.7766, Avg Acc@5: 0.9374
+2022-01-24 13:53:59,920 Val Step[1550/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7763, Avg Acc@5: 0.9374
+2022-01-24 13:54:01,929 ----- Epoch[036/050], Validation Loss: 1.0431, Validation Acc@1: 0.7763, Validation Acc@5: 0.9374, time: 133.55
+2022-01-24 14:32:29,653 ----- Epoch[037/050], Train Loss: 2.8850, Train Acc: 0.4969, time: 2307.72, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 15:10:51,709 ----- Epoch[038/050], Train Loss: 2.8887, Train Acc: 0.4900, time: 2302.05, Best Val(epoch30) Acc@1: 0.7766
+2022-01-24 15:10:51,709 ----- Validation after Epoch: 38
+2022-01-24 15:12:04,752 Val Step[0000/1563], Avg Loss: 0.8025, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 15:12:06,773 Val Step[0050/1563], Avg Loss: 1.0044, Avg Acc@1: 0.7831, Avg Acc@5: 0.9418
+2022-01-24 15:12:08,855 Val Step[0100/1563], Avg Loss: 1.0368, Avg Acc@1: 0.7822, Avg Acc@5: 0.9381
+2022-01-24 15:12:10,736 Val Step[0150/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7817, Avg Acc@5: 0.9358
+2022-01-24 15:12:12,638 Val Step[0200/1563], Avg Loss: 1.0404, Avg Acc@1: 0.7833, Avg Acc@5: 0.9367
+2022-01-24 15:12:14,545 Val Step[0250/1563], Avg Loss: 1.0305, Avg Acc@1: 0.7824, Avg Acc@5: 0.9389
+2022-01-24 15:12:16,404 Val Step[0300/1563], Avg Loss: 1.0304, Avg Acc@1: 0.7818, Avg Acc@5: 0.9374
+2022-01-24 15:12:18,283 Val Step[0350/1563], Avg Loss: 1.0353, Avg Acc@1: 0.7812, Avg Acc@5: 0.9369
+2022-01-24 15:12:20,165 Val Step[0400/1563], Avg Loss: 1.0349, Avg Acc@1: 0.7821, Avg Acc@5: 0.9366
+2022-01-24 15:12:21,929 Val Step[0450/1563], Avg Loss: 1.0392, Avg Acc@1: 0.7794, Avg Acc@5: 0.9365
+2022-01-24 15:12:23,755 Val Step[0500/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7791, Avg Acc@5: 0.9369
+2022-01-24 15:12:25,537 Val Step[0550/1563], Avg Loss: 1.0407, Avg Acc@1: 0.7784, Avg Acc@5: 0.9369
+2022-01-24 15:12:27,314 Val Step[0600/1563], Avg Loss: 1.0392, Avg Acc@1: 0.7784, Avg Acc@5: 0.9370
+2022-01-24 15:12:29,134 Val Step[0650/1563], Avg Loss: 1.0397, Avg Acc@1: 0.7781, Avg Acc@5: 0.9370
+2022-01-24 15:12:31,048 Val Step[0700/1563], Avg Loss: 1.0371, Avg Acc@1: 0.7788, Avg Acc@5: 0.9375
+2022-01-24 15:12:32,943 Val Step[0750/1563], Avg Loss: 1.0433, Avg Acc@1: 0.7769, Avg Acc@5: 0.9373
+2022-01-24 15:12:34,773 Val Step[0800/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7775, Avg Acc@5: 0.9373
+2022-01-24 15:12:36,562 Val Step[0850/1563], Avg Loss: 1.0445, Avg Acc@1: 0.7775, Avg Acc@5: 0.9370
+2022-01-24 15:12:38,331 Val Step[0900/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7779, Avg Acc@5: 0.9374
+2022-01-24 15:12:40,115 Val Step[0950/1563], Avg Loss: 1.0411, Avg Acc@1: 0.7785, Avg Acc@5: 0.9376
+2022-01-24 15:12:41,954 Val Step[1000/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7783, Avg Acc@5: 0.9373
+2022-01-24 15:12:43,736 Val Step[1050/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7776, Avg Acc@5: 0.9370
+2022-01-24 15:12:45,560 Val Step[1100/1563], Avg Loss: 1.0450, Avg Acc@1: 0.7770, Avg Acc@5: 0.9372
+2022-01-24 15:12:47,415 Val Step[1150/1563], Avg Loss: 1.0427, Avg Acc@1: 0.7774, Avg Acc@5: 0.9376
+2022-01-24 15:12:49,187 Val Step[1200/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7781, Avg Acc@5: 0.9376
+2022-01-24 15:12:51,003 Val Step[1250/1563], Avg Loss: 1.0413, Avg Acc@1: 0.7777, Avg Acc@5: 0.9378
+2022-01-24 15:12:52,874 Val Step[1300/1563], Avg Loss: 1.0443, Avg Acc@1: 0.7776, Avg Acc@5: 0.9376
+2022-01-24 15:12:54,655 Val Step[1350/1563], Avg Loss: 1.0455, Avg Acc@1: 0.7770, Avg Acc@5: 0.9375
+2022-01-24 15:12:56,526 Val Step[1400/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7766, Avg Acc@5: 0.9375
+2022-01-24 15:12:58,316 Val Step[1450/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7769, Avg Acc@5: 0.9375
+2022-01-24 15:13:00,129 Val Step[1500/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7771, Avg Acc@5: 0.9376
+2022-01-24 15:13:01,892 Val Step[1550/1563], Avg Loss: 1.0446, Avg Acc@1: 0.7769, Avg Acc@5: 0.9376
+2022-01-24 15:13:03,793 ----- Epoch[038/050], Validation Loss: 1.0445, Validation Acc@1: 0.7769, Validation Acc@5: 0.9376, time: 132.08
+2022-01-24 15:51:21,058 ----- Epoch[039/050], Train Loss: 2.8903, Train Acc: 0.4917, time: 2295.73, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 16:29:33,543 ----- Epoch[040/050], Train Loss: 2.8860, Train Acc: 0.4838, time: 2292.48, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 16:29:33,543 ----- Validation after Epoch: 40
+2022-01-24 16:30:46,368 Val Step[0000/1563], Avg Loss: 0.8175, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 16:30:48,529 Val Step[0050/1563], Avg Loss: 1.0068, Avg Acc@1: 0.7819, Avg Acc@5: 0.9412
+2022-01-24 16:30:50,627 Val Step[0100/1563], Avg Loss: 1.0387, Avg Acc@1: 0.7828, Avg Acc@5: 0.9378
+2022-01-24 16:30:52,479 Val Step[0150/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7833, Avg Acc@5: 0.9361
+2022-01-24 16:30:54,287 Val Step[0200/1563], Avg Loss: 1.0426, Avg Acc@1: 0.7833, Avg Acc@5: 0.9367
+2022-01-24 16:30:56,056 Val Step[0250/1563], Avg Loss: 1.0332, Avg Acc@1: 0.7819, Avg Acc@5: 0.9382
+2022-01-24 16:30:57,844 Val Step[0300/1563], Avg Loss: 1.0332, Avg Acc@1: 0.7811, Avg Acc@5: 0.9370
+2022-01-24 16:30:59,684 Val Step[0350/1563], Avg Loss: 1.0381, Avg Acc@1: 0.7810, Avg Acc@5: 0.9364
+2022-01-24 16:31:01,481 Val Step[0400/1563], Avg Loss: 1.0375, Avg Acc@1: 0.7820, Avg Acc@5: 0.9366
+2022-01-24 16:31:03,279 Val Step[0450/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7794, Avg Acc@5: 0.9365
+2022-01-24 16:31:05,191 Val Step[0500/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7787, Avg Acc@5: 0.9368
+2022-01-24 16:31:07,123 Val Step[0550/1563], Avg Loss: 1.0433, Avg Acc@1: 0.7780, Avg Acc@5: 0.9368
+2022-01-24 16:31:09,041 Val Step[0600/1563], Avg Loss: 1.0419, Avg Acc@1: 0.7777, Avg Acc@5: 0.9370
+2022-01-24 16:31:10,976 Val Step[0650/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7774, Avg Acc@5: 0.9370
+2022-01-24 16:31:12,851 Val Step[0700/1563], Avg Loss: 1.0401, Avg Acc@1: 0.7779, Avg Acc@5: 0.9376
+2022-01-24 16:31:14,679 Val Step[0750/1563], Avg Loss: 1.0465, Avg Acc@1: 0.7761, Avg Acc@5: 0.9374
+2022-01-24 16:31:16,481 Val Step[0800/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7769, Avg Acc@5: 0.9373
+2022-01-24 16:31:18,288 Val Step[0850/1563], Avg Loss: 1.0478, Avg Acc@1: 0.7769, Avg Acc@5: 0.9371
+2022-01-24 16:31:20,078 Val Step[0900/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7775, Avg Acc@5: 0.9375
+2022-01-24 16:31:21,862 Val Step[0950/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7780, Avg Acc@5: 0.9378
+2022-01-24 16:31:23,648 Val Step[1000/1563], Avg Loss: 1.0462, Avg Acc@1: 0.7778, Avg Acc@5: 0.9375
+2022-01-24 16:31:25,499 Val Step[1050/1563], Avg Loss: 1.0481, Avg Acc@1: 0.7772, Avg Acc@5: 0.9372
+2022-01-24 16:31:27,367 Val Step[1100/1563], Avg Loss: 1.0482, Avg Acc@1: 0.7767, Avg Acc@5: 0.9374
+2022-01-24 16:31:29,151 Val Step[1150/1563], Avg Loss: 1.0458, Avg Acc@1: 0.7768, Avg Acc@5: 0.9378
+2022-01-24 16:31:30,954 Val Step[1200/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7776, Avg Acc@5: 0.9378
+2022-01-24 16:31:32,846 Val Step[1250/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7771, Avg Acc@5: 0.9380
+2022-01-24 16:31:34,660 Val Step[1300/1563], Avg Loss: 1.0474, Avg Acc@1: 0.7770, Avg Acc@5: 0.9377
+2022-01-24 16:31:36,500 Val Step[1350/1563], Avg Loss: 1.0487, Avg Acc@1: 0.7765, Avg Acc@5: 0.9376
+2022-01-24 16:31:38,295 Val Step[1400/1563], Avg Loss: 1.0483, Avg Acc@1: 0.7761, Avg Acc@5: 0.9376
+2022-01-24 16:31:40,092 Val Step[1450/1563], Avg Loss: 1.0472, Avg Acc@1: 0.7765, Avg Acc@5: 0.9376
+2022-01-24 16:31:41,948 Val Step[1500/1563], Avg Loss: 1.0471, Avg Acc@1: 0.7766, Avg Acc@5: 0.9378
+2022-01-24 16:31:43,694 Val Step[1550/1563], Avg Loss: 1.0476, Avg Acc@1: 0.7764, Avg Acc@5: 0.9378
+2022-01-24 16:31:45,529 ----- Epoch[040/050], Validation Loss: 1.0475, Validation Acc@1: 0.7764, Validation Acc@5: 0.9378, time: 131.98
+2022-01-24 17:09:50,290 ----- Epoch[041/050], Train Loss: 2.8821, Train Acc: 0.4883, time: 2284.76, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 17:47:53,682 ----- Epoch[042/050], Train Loss: 2.8932, Train Acc: 0.4881, time: 2283.39, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 17:47:53,683 ----- Validation after Epoch: 42
+2022-01-24 17:48:57,773 Val Step[0000/1563], Avg Loss: 0.8193, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 17:48:59,735 Val Step[0050/1563], Avg Loss: 1.0079, Avg Acc@1: 0.7843, Avg Acc@5: 0.9412
+2022-01-24 17:49:01,526 Val Step[0100/1563], Avg Loss: 1.0400, Avg Acc@1: 0.7834, Avg Acc@5: 0.9378
+2022-01-24 17:49:03,338 Val Step[0150/1563], Avg Loss: 1.0433, Avg Acc@1: 0.7839, Avg Acc@5: 0.9354
+2022-01-24 17:49:05,129 Val Step[0200/1563], Avg Loss: 1.0434, Avg Acc@1: 0.7842, Avg Acc@5: 0.9361
+2022-01-24 17:49:06,908 Val Step[0250/1563], Avg Loss: 1.0337, Avg Acc@1: 0.7821, Avg Acc@5: 0.9379
+2022-01-24 17:49:08,750 Val Step[0300/1563], Avg Loss: 1.0336, Avg Acc@1: 0.7819, Avg Acc@5: 0.9365
+2022-01-24 17:49:10,538 Val Step[0350/1563], Avg Loss: 1.0384, Avg Acc@1: 0.7812, Avg Acc@5: 0.9359
+2022-01-24 17:49:12,323 Val Step[0400/1563], Avg Loss: 1.0378, Avg Acc@1: 0.7822, Avg Acc@5: 0.9359
+2022-01-24 17:49:14,116 Val Step[0450/1563], Avg Loss: 1.0422, Avg Acc@1: 0.7797, Avg Acc@5: 0.9357
+2022-01-24 17:49:15,976 Val Step[0500/1563], Avg Loss: 1.0447, Avg Acc@1: 0.7793, Avg Acc@5: 0.9360
+2022-01-24 17:49:17,788 Val Step[0550/1563], Avg Loss: 1.0437, Avg Acc@1: 0.7786, Avg Acc@5: 0.9362
+2022-01-24 17:49:19,576 Val Step[0600/1563], Avg Loss: 1.0422, Avg Acc@1: 0.7782, Avg Acc@5: 0.9361
+2022-01-24 17:49:21,399 Val Step[0650/1563], Avg Loss: 1.0427, Avg Acc@1: 0.7779, Avg Acc@5: 0.9363
+2022-01-24 17:49:23,246 Val Step[0700/1563], Avg Loss: 1.0404, Avg Acc@1: 0.7783, Avg Acc@5: 0.9370
+2022-01-24 17:49:25,087 Val Step[0750/1563], Avg Loss: 1.0467, Avg Acc@1: 0.7763, Avg Acc@5: 0.9368
+2022-01-24 17:49:26,924 Val Step[0800/1563], Avg Loss: 1.0466, Avg Acc@1: 0.7769, Avg Acc@5: 0.9367
+2022-01-24 17:49:28,701 Val Step[0850/1563], Avg Loss: 1.0479, Avg Acc@1: 0.7766, Avg Acc@5: 0.9364
+2022-01-24 17:49:30,497 Val Step[0900/1563], Avg Loss: 1.0450, Avg Acc@1: 0.7772, Avg Acc@5: 0.9369
+2022-01-24 17:49:32,291 Val Step[0950/1563], Avg Loss: 1.0445, Avg Acc@1: 0.7778, Avg Acc@5: 0.9371
+2022-01-24 17:49:34,070 Val Step[1000/1563], Avg Loss: 1.0463, Avg Acc@1: 0.7775, Avg Acc@5: 0.9368
+2022-01-24 17:49:35,860 Val Step[1050/1563], Avg Loss: 1.0482, Avg Acc@1: 0.7770, Avg Acc@5: 0.9365
+2022-01-24 17:49:37,676 Val Step[1100/1563], Avg Loss: 1.0483, Avg Acc@1: 0.7765, Avg Acc@5: 0.9368
+2022-01-24 17:49:39,624 Val Step[1150/1563], Avg Loss: 1.0460, Avg Acc@1: 0.7767, Avg Acc@5: 0.9372
+2022-01-24 17:49:41,521 Val Step[1200/1563], Avg Loss: 1.0449, Avg Acc@1: 0.7774, Avg Acc@5: 0.9372
+2022-01-24 17:49:43,394 Val Step[1250/1563], Avg Loss: 1.0446, Avg Acc@1: 0.7769, Avg Acc@5: 0.9375
+2022-01-24 17:49:45,218 Val Step[1300/1563], Avg Loss: 1.0476, Avg Acc@1: 0.7767, Avg Acc@5: 0.9372
+2022-01-24 17:49:47,058 Val Step[1350/1563], Avg Loss: 1.0489, Avg Acc@1: 0.7762, Avg Acc@5: 0.9372
+2022-01-24 17:49:48,903 Val Step[1400/1563], Avg Loss: 1.0485, Avg Acc@1: 0.7759, Avg Acc@5: 0.9372
+2022-01-24 17:49:50,826 Val Step[1450/1563], Avg Loss: 1.0474, Avg Acc@1: 0.7763, Avg Acc@5: 0.9373
+2022-01-24 17:49:52,784 Val Step[1500/1563], Avg Loss: 1.0474, Avg Acc@1: 0.7764, Avg Acc@5: 0.9375
+2022-01-24 17:49:54,618 Val Step[1550/1563], Avg Loss: 1.0479, Avg Acc@1: 0.7762, Avg Acc@5: 0.9375
+2022-01-24 17:49:56,539 ----- Epoch[042/050], Validation Loss: 1.0478, Validation Acc@1: 0.7762, Validation Acc@5: 0.9375, time: 122.85
+2022-01-24 18:28:18,750 ----- Epoch[043/050], Train Loss: 2.8834, Train Acc: 0.4968, time: 2302.21, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 19:06:39,279 ----- Epoch[044/050], Train Loss: 2.8861, Train Acc: 0.4917, time: 2300.52, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 19:06:39,279 ----- Validation after Epoch: 44
+2022-01-24 19:07:56,453 Val Step[0000/1563], Avg Loss: 0.8173, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 19:07:58,475 Val Step[0050/1563], Avg Loss: 1.0051, Avg Acc@1: 0.7831, Avg Acc@5: 0.9418
+2022-01-24 19:08:00,477 Val Step[0100/1563], Avg Loss: 1.0369, Avg Acc@1: 0.7840, Avg Acc@5: 0.9378
+2022-01-24 19:08:02,419 Val Step[0150/1563], Avg Loss: 1.0406, Avg Acc@1: 0.7839, Avg Acc@5: 0.9361
+2022-01-24 19:08:04,222 Val Step[0200/1563], Avg Loss: 1.0408, Avg Acc@1: 0.7844, Avg Acc@5: 0.9361
+2022-01-24 19:08:06,010 Val Step[0250/1563], Avg Loss: 1.0311, Avg Acc@1: 0.7825, Avg Acc@5: 0.9376
+2022-01-24 19:08:07,828 Val Step[0300/1563], Avg Loss: 1.0311, Avg Acc@1: 0.7820, Avg Acc@5: 0.9367
+2022-01-24 19:08:09,665 Val Step[0350/1563], Avg Loss: 1.0358, Avg Acc@1: 0.7812, Avg Acc@5: 0.9363
+2022-01-24 19:08:11,498 Val Step[0400/1563], Avg Loss: 1.0352, Avg Acc@1: 0.7823, Avg Acc@5: 0.9363
+2022-01-24 19:08:13,386 Val Step[0450/1563], Avg Loss: 1.0396, Avg Acc@1: 0.7798, Avg Acc@5: 0.9363
+2022-01-24 19:08:15,201 Val Step[0500/1563], Avg Loss: 1.0422, Avg Acc@1: 0.7791, Avg Acc@5: 0.9367
+2022-01-24 19:08:16,998 Val Step[0550/1563], Avg Loss: 1.0411, Avg Acc@1: 0.7783, Avg Acc@5: 0.9368
+2022-01-24 19:08:18,878 Val Step[0600/1563], Avg Loss: 1.0397, Avg Acc@1: 0.7780, Avg Acc@5: 0.9368
+2022-01-24 19:08:20,761 Val Step[0650/1563], Avg Loss: 1.0402, Avg Acc@1: 0.7779, Avg Acc@5: 0.9369
+2022-01-24 19:08:22,564 Val Step[0700/1563], Avg Loss: 1.0379, Avg Acc@1: 0.7784, Avg Acc@5: 0.9374
+2022-01-24 19:08:24,364 Val Step[0750/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7764, Avg Acc@5: 0.9373
+2022-01-24 19:08:26,168 Val Step[0800/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7770, Avg Acc@5: 0.9373
+2022-01-24 19:08:27,996 Val Step[0850/1563], Avg Loss: 1.0455, Avg Acc@1: 0.7770, Avg Acc@5: 0.9370
+2022-01-24 19:08:29,897 Val Step[0900/1563], Avg Loss: 1.0425, Avg Acc@1: 0.7776, Avg Acc@5: 0.9374
+2022-01-24 19:08:31,776 Val Step[0950/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7782, Avg Acc@5: 0.9377
+2022-01-24 19:08:33,684 Val Step[1000/1563], Avg Loss: 1.0437, Avg Acc@1: 0.7781, Avg Acc@5: 0.9373
+2022-01-24 19:08:35,532 Val Step[1050/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7774, Avg Acc@5: 0.9370
+2022-01-24 19:08:37,512 Val Step[1100/1563], Avg Loss: 1.0458, Avg Acc@1: 0.7768, Avg Acc@5: 0.9372
+2022-01-24 19:08:39,374 Val Step[1150/1563], Avg Loss: 1.0434, Avg Acc@1: 0.7769, Avg Acc@5: 0.9376
+2022-01-24 19:08:41,164 Val Step[1200/1563], Avg Loss: 1.0423, Avg Acc@1: 0.7777, Avg Acc@5: 0.9376
+2022-01-24 19:08:43,042 Val Step[1250/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7773, Avg Acc@5: 0.9377
+2022-01-24 19:08:44,840 Val Step[1300/1563], Avg Loss: 1.0450, Avg Acc@1: 0.7771, Avg Acc@5: 0.9375
+2022-01-24 19:08:46,640 Val Step[1350/1563], Avg Loss: 1.0462, Avg Acc@1: 0.7765, Avg Acc@5: 0.9375
+2022-01-24 19:08:48,425 Val Step[1400/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7762, Avg Acc@5: 0.9374
+2022-01-24 19:08:50,263 Val Step[1450/1563], Avg Loss: 1.0447, Avg Acc@1: 0.7767, Avg Acc@5: 0.9375
+2022-01-24 19:08:52,212 Val Step[1500/1563], Avg Loss: 1.0447, Avg Acc@1: 0.7768, Avg Acc@5: 0.9376
+2022-01-24 19:08:54,069 Val Step[1550/1563], Avg Loss: 1.0452, Avg Acc@1: 0.7765, Avg Acc@5: 0.9376
+2022-01-24 19:08:56,021 ----- Epoch[044/050], Validation Loss: 1.0450, Validation Acc@1: 0.7764, Validation Acc@5: 0.9377, time: 136.74
+2022-01-24 19:46:48,558 ----- Epoch[045/050], Train Loss: 2.8774, Train Acc: 0.4901, time: 2272.53, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 20:25:07,955 ----- Epoch[046/050], Train Loss: 2.8787, Train Acc: 0.4891, time: 2299.39, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 20:25:07,955 ----- Validation after Epoch: 46
+2022-01-24 20:26:17,108 Val Step[0000/1563], Avg Loss: 0.8147, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 20:26:19,104 Val Step[0050/1563], Avg Loss: 1.0046, Avg Acc@1: 0.7837, Avg Acc@5: 0.9418
+2022-01-24 20:26:21,203 Val Step[0100/1563], Avg Loss: 1.0369, Avg Acc@1: 0.7847, Avg Acc@5: 0.9378
+2022-01-24 20:26:23,030 Val Step[0150/1563], Avg Loss: 1.0401, Avg Acc@1: 0.7852, Avg Acc@5: 0.9363
+2022-01-24 20:26:25,040 Val Step[0200/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7851, Avg Acc@5: 0.9364
+2022-01-24 20:26:27,093 Val Step[0250/1563], Avg Loss: 1.0306, Avg Acc@1: 0.7832, Avg Acc@5: 0.9382
+2022-01-24 20:26:29,162 Val Step[0300/1563], Avg Loss: 1.0306, Avg Acc@1: 0.7828, Avg Acc@5: 0.9368
+2022-01-24 20:26:31,268 Val Step[0350/1563], Avg Loss: 1.0353, Avg Acc@1: 0.7821, Avg Acc@5: 0.9363
+2022-01-24 20:26:33,402 Val Step[0400/1563], Avg Loss: 1.0346, Avg Acc@1: 0.7830, Avg Acc@5: 0.9366
+2022-01-24 20:26:35,415 Val Step[0450/1563], Avg Loss: 1.0390, Avg Acc@1: 0.7804, Avg Acc@5: 0.9364
+2022-01-24 20:26:37,437 Val Step[0500/1563], Avg Loss: 1.0416, Avg Acc@1: 0.7799, Avg Acc@5: 0.9367
+2022-01-24 20:26:39,468 Val Step[0550/1563], Avg Loss: 1.0406, Avg Acc@1: 0.7792, Avg Acc@5: 0.9368
+2022-01-24 20:26:41,511 Val Step[0600/1563], Avg Loss: 1.0392, Avg Acc@1: 0.7787, Avg Acc@5: 0.9368
+2022-01-24 20:26:43,590 Val Step[0650/1563], Avg Loss: 1.0397, Avg Acc@1: 0.7784, Avg Acc@5: 0.9369
+2022-01-24 20:26:45,679 Val Step[0700/1563], Avg Loss: 1.0374, Avg Acc@1: 0.7788, Avg Acc@5: 0.9374
+2022-01-24 20:26:47,730 Val Step[0750/1563], Avg Loss: 1.0436, Avg Acc@1: 0.7768, Avg Acc@5: 0.9373
+2022-01-24 20:26:49,790 Val Step[0800/1563], Avg Loss: 1.0435, Avg Acc@1: 0.7775, Avg Acc@5: 0.9373
+2022-01-24 20:26:51,807 Val Step[0850/1563], Avg Loss: 1.0449, Avg Acc@1: 0.7774, Avg Acc@5: 0.9370
+2022-01-24 20:26:53,831 Val Step[0900/1563], Avg Loss: 1.0419, Avg Acc@1: 0.7780, Avg Acc@5: 0.9374
+2022-01-24 20:26:55,940 Val Step[0950/1563], Avg Loss: 1.0414, Avg Acc@1: 0.7785, Avg Acc@5: 0.9377
+2022-01-24 20:26:58,035 Val Step[1000/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7783, Avg Acc@5: 0.9374
+2022-01-24 20:27:00,081 Val Step[1050/1563], Avg Loss: 1.0451, Avg Acc@1: 0.7777, Avg Acc@5: 0.9371
+2022-01-24 20:27:02,109 Val Step[1100/1563], Avg Loss: 1.0452, Avg Acc@1: 0.7770, Avg Acc@5: 0.9373
+2022-01-24 20:27:04,137 Val Step[1150/1563], Avg Loss: 1.0429, Avg Acc@1: 0.7772, Avg Acc@5: 0.9376
+2022-01-24 20:27:06,152 Val Step[1200/1563], Avg Loss: 1.0417, Avg Acc@1: 0.7780, Avg Acc@5: 0.9376
+2022-01-24 20:27:07,978 Val Step[1250/1563], Avg Loss: 1.0414, Avg Acc@1: 0.7775, Avg Acc@5: 0.9378
+2022-01-24 20:27:09,799 Val Step[1300/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7773, Avg Acc@5: 0.9376
+2022-01-24 20:27:11,756 Val Step[1350/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7767, Avg Acc@5: 0.9376
+2022-01-24 20:27:13,626 Val Step[1400/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7763, Avg Acc@5: 0.9375
+2022-01-24 20:27:15,466 Val Step[1450/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7769, Avg Acc@5: 0.9375
+2022-01-24 20:27:17,449 Val Step[1500/1563], Avg Loss: 1.0442, Avg Acc@1: 0.7769, Avg Acc@5: 0.9377
+2022-01-24 20:27:19,295 Val Step[1550/1563], Avg Loss: 1.0447, Avg Acc@1: 0.7766, Avg Acc@5: 0.9377
+2022-01-24 20:27:21,251 ----- Epoch[046/050], Validation Loss: 1.0445, Validation Acc@1: 0.7765, Validation Acc@5: 0.9378, time: 133.29
+2022-01-24 21:05:46,626 ----- Epoch[047/050], Train Loss: 2.8817, Train Acc: 0.4885, time: 2305.37, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 21:44:09,130 ----- Epoch[048/050], Train Loss: 2.8785, Train Acc: 0.4877, time: 2302.50, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 21:44:09,131 ----- Validation after Epoch: 48
+2022-01-24 21:45:23,685 Val Step[0000/1563], Avg Loss: 0.8117, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 21:45:25,628 Val Step[0050/1563], Avg Loss: 1.0048, Avg Acc@1: 0.7831, Avg Acc@5: 0.9430
+2022-01-24 21:45:27,417 Val Step[0100/1563], Avg Loss: 1.0369, Avg Acc@1: 0.7837, Avg Acc@5: 0.9381
+2022-01-24 21:45:29,200 Val Step[0150/1563], Avg Loss: 1.0403, Avg Acc@1: 0.7848, Avg Acc@5: 0.9361
+2022-01-24 21:45:31,025 Val Step[0200/1563], Avg Loss: 1.0406, Avg Acc@1: 0.7853, Avg Acc@5: 0.9364
+2022-01-24 21:45:32,908 Val Step[0250/1563], Avg Loss: 1.0309, Avg Acc@1: 0.7834, Avg Acc@5: 0.9381
+2022-01-24 21:45:34,695 Val Step[0300/1563], Avg Loss: 1.0308, Avg Acc@1: 0.7830, Avg Acc@5: 0.9366
+2022-01-24 21:45:36,470 Val Step[0350/1563], Avg Loss: 1.0355, Avg Acc@1: 0.7821, Avg Acc@5: 0.9362
+2022-01-24 21:45:38,302 Val Step[0400/1563], Avg Loss: 1.0349, Avg Acc@1: 0.7830, Avg Acc@5: 0.9363
+2022-01-24 21:45:40,249 Val Step[0450/1563], Avg Loss: 1.0394, Avg Acc@1: 0.7802, Avg Acc@5: 0.9362
+2022-01-24 21:45:42,084 Val Step[0500/1563], Avg Loss: 1.0420, Avg Acc@1: 0.7796, Avg Acc@5: 0.9365
+2022-01-24 21:45:43,859 Val Step[0550/1563], Avg Loss: 1.0410, Avg Acc@1: 0.7788, Avg Acc@5: 0.9366
+2022-01-24 21:45:45,755 Val Step[0600/1563], Avg Loss: 1.0397, Avg Acc@1: 0.7783, Avg Acc@5: 0.9366
+2022-01-24 21:45:47,666 Val Step[0650/1563], Avg Loss: 1.0401, Avg Acc@1: 0.7780, Avg Acc@5: 0.9367
+2022-01-24 21:45:49,438 Val Step[0700/1563], Avg Loss: 1.0378, Avg Acc@1: 0.7784, Avg Acc@5: 0.9372
+2022-01-24 21:45:51,246 Val Step[0750/1563], Avg Loss: 1.0441, Avg Acc@1: 0.7765, Avg Acc@5: 0.9370
+2022-01-24 21:45:53,179 Val Step[0800/1563], Avg Loss: 1.0440, Avg Acc@1: 0.7772, Avg Acc@5: 0.9371
+2022-01-24 21:45:55,157 Val Step[0850/1563], Avg Loss: 1.0454, Avg Acc@1: 0.7771, Avg Acc@5: 0.9368
+2022-01-24 21:45:57,097 Val Step[0900/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7776, Avg Acc@5: 0.9372
+2022-01-24 21:45:58,985 Val Step[0950/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7782, Avg Acc@5: 0.9375
+2022-01-24 21:46:00,777 Val Step[1000/1563], Avg Loss: 1.0436, Avg Acc@1: 0.7779, Avg Acc@5: 0.9372
+2022-01-24 21:46:02,667 Val Step[1050/1563], Avg Loss: 1.0455, Avg Acc@1: 0.7773, Avg Acc@5: 0.9369
+2022-01-24 21:46:04,608 Val Step[1100/1563], Avg Loss: 1.0456, Avg Acc@1: 0.7768, Avg Acc@5: 0.9371
+2022-01-24 21:46:06,634 Val Step[1150/1563], Avg Loss: 1.0432, Avg Acc@1: 0.7770, Avg Acc@5: 0.9375
+2022-01-24 21:46:08,715 Val Step[1200/1563], Avg Loss: 1.0421, Avg Acc@1: 0.7778, Avg Acc@5: 0.9375
+2022-01-24 21:46:10,817 Val Step[1250/1563], Avg Loss: 1.0418, Avg Acc@1: 0.7773, Avg Acc@5: 0.9376
+2022-01-24 21:46:12,861 Val Step[1300/1563], Avg Loss: 1.0449, Avg Acc@1: 0.7771, Avg Acc@5: 0.9374
+2022-01-24 21:46:14,943 Val Step[1350/1563], Avg Loss: 1.0461, Avg Acc@1: 0.7765, Avg Acc@5: 0.9373
+2022-01-24 21:46:16,965 Val Step[1400/1563], Avg Loss: 1.0457, Avg Acc@1: 0.7761, Avg Acc@5: 0.9373
+2022-01-24 21:46:18,999 Val Step[1450/1563], Avg Loss: 1.0446, Avg Acc@1: 0.7767, Avg Acc@5: 0.9373
+2022-01-24 21:46:21,035 Val Step[1500/1563], Avg Loss: 1.0445, Avg Acc@1: 0.7768, Avg Acc@5: 0.9375
+2022-01-24 21:46:23,054 Val Step[1550/1563], Avg Loss: 1.0450, Avg Acc@1: 0.7764, Avg Acc@5: 0.9375
+2022-01-24 21:46:25,129 ----- Epoch[048/050], Validation Loss: 1.0449, Validation Acc@1: 0.7763, Validation Acc@5: 0.9376, time: 136.00
+2022-01-24 22:24:37,094 ----- Epoch[049/050], Train Loss: 2.8918, Train Acc: 0.4848, time: 2291.96, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 23:02:45,715 ----- Epoch[050/050], Train Loss: 2.8706, Train Acc: 0.4896, time: 2288.62, Best Val(epoch38) Acc@1: 0.7769
+2022-01-24 23:02:45,715 ----- Validation after Epoch: 50
+2022-01-24 23:04:05,491 Val Step[0000/1563], Avg Loss: 0.8152, Avg Acc@1: 0.8125, Avg Acc@5: 1.0000
+2022-01-24 23:04:07,309 Val Step[0050/1563], Avg Loss: 1.0053, Avg Acc@1: 0.7831, Avg Acc@5: 0.9430
+2022-01-24 23:04:09,208 Val Step[0100/1563], Avg Loss: 1.0373, Avg Acc@1: 0.7840, Avg Acc@5: 0.9378
+2022-01-24 23:04:11,008 Val Step[0150/1563], Avg Loss: 1.0407, Avg Acc@1: 0.7846, Avg Acc@5: 0.9358
+2022-01-24 23:04:12,893 Val Step[0200/1563], Avg Loss: 1.0410, Avg Acc@1: 0.7848, Avg Acc@5: 0.9363
+2022-01-24 23:04:14,770 Val Step[0250/1563], Avg Loss: 1.0313, Avg Acc@1: 0.7829, Avg Acc@5: 0.9380
+2022-01-24 23:04:16,612 Val Step[0300/1563], Avg Loss: 1.0313, Avg Acc@1: 0.7825, Avg Acc@5: 0.9367
+2022-01-24 23:04:18,548 Val Step[0350/1563], Avg Loss: 1.0360, Avg Acc@1: 0.7818, Avg Acc@5: 0.9363
+2022-01-24 23:04:20,464 Val Step[0400/1563], Avg Loss: 1.0353, Avg Acc@1: 0.7827, Avg Acc@5: 0.9363
+2022-01-24 23:04:22,251 Val Step[0450/1563], Avg Loss: 1.0398, Avg Acc@1: 0.7801, Avg Acc@5: 0.9363
+2022-01-24 23:04:24,023 Val Step[0500/1563], Avg Loss: 1.0423, Avg Acc@1: 0.7796, Avg Acc@5: 0.9366
+2022-01-24 23:04:25,804 Val Step[0550/1563], Avg Loss: 1.0413, Avg Acc@1: 0.7788, Avg Acc@5: 0.9366
+2022-01-24 23:04:27,681 Val Step[0600/1563], Avg Loss: 1.0399, Avg Acc@1: 0.7783, Avg Acc@5: 0.9366
+2022-01-24 23:04:29,570 Val Step[0650/1563], Avg Loss: 1.0404, Avg Acc@1: 0.7781, Avg Acc@5: 0.9367
+2022-01-24 23:04:31,460 Val Step[0700/1563], Avg Loss: 1.0381, Avg Acc@1: 0.7784, Avg Acc@5: 0.9372
+2022-01-24 23:04:33,277 Val Step[0750/1563], Avg Loss: 1.0444, Avg Acc@1: 0.7765, Avg Acc@5: 0.9370
+2022-01-24 23:04:35,082 Val Step[0800/1563], Avg Loss: 1.0443, Avg Acc@1: 0.7772, Avg Acc@5: 0.9371
+2022-01-24 23:04:36,964 Val Step[0850/1563], Avg Loss: 1.0456, Avg Acc@1: 0.7771, Avg Acc@5: 0.9368
+2022-01-24 23:04:38,860 Val Step[0900/1563], Avg Loss: 1.0426, Avg Acc@1: 0.7776, Avg Acc@5: 0.9372
+2022-01-24 23:04:40,820 Val Step[0950/1563], Avg Loss: 1.0421, Avg Acc@1: 0.7783, Avg Acc@5: 0.9375
+2022-01-24 23:04:42,827 Val Step[1000/1563], Avg Loss: 1.0439, Avg Acc@1: 0.7780, Avg Acc@5: 0.9371
+2022-01-24 23:04:44,632 Val Step[1050/1563], Avg Loss: 1.0458, Avg Acc@1: 0.7774, Avg Acc@5: 0.9368
+2022-01-24 23:04:46,410 Val Step[1100/1563], Avg Loss: 1.0459, Avg Acc@1: 0.7768, Avg Acc@5: 0.9371
+2022-01-24 23:04:48,394 Val Step[1150/1563], Avg Loss: 1.0436, Avg Acc@1: 0.7770, Avg Acc@5: 0.9375
+2022-01-24 23:04:50,423 Val Step[1200/1563], Avg Loss: 1.0424, Avg Acc@1: 0.7777, Avg Acc@5: 0.9374
+2022-01-24 23:04:52,447 Val Step[1250/1563], Avg Loss: 1.0422, Avg Acc@1: 0.7772, Avg Acc@5: 0.9376
+2022-01-24 23:04:54,472 Val Step[1300/1563], Avg Loss: 1.0452, Avg Acc@1: 0.7771, Avg Acc@5: 0.9374
+2022-01-24 23:04:56,502 Val Step[1350/1563], Avg Loss: 1.0464, Avg Acc@1: 0.7765, Avg Acc@5: 0.9373
+2022-01-24 23:04:58,537 Val Step[1400/1563], Avg Loss: 1.0460, Avg Acc@1: 0.7761, Avg Acc@5: 0.9373
+2022-01-24 23:05:00,577 Val Step[1450/1563], Avg Loss: 1.0449, Avg Acc@1: 0.7767, Avg Acc@5: 0.9373
+2022-01-24 23:05:02,648 Val Step[1500/1563], Avg Loss: 1.0448, Avg Acc@1: 0.7768, Avg Acc@5: 0.9375
+2022-01-24 23:05:04,685 Val Step[1550/1563], Avg Loss: 1.0453, Avg Acc@1: 0.7764, Avg Acc@5: 0.9375
+2022-01-24 23:05:06,717 ----- Epoch[050/050], Validation Loss: 1.0452, Validation Acc@1: 0.7763, Validation Acc@5: 0.9375, time: 141.00

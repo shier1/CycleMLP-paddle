@@ -1,0 +1,50 @@
+2022-01-23 15:34:18,183 ----- Validation after Epoch: 2
+2022-01-23 15:36:33,201 ----- Epoch[002/050], Validation Loss: 1.0484, Validation Acc@1: 0.7755, Validation Acc@5: 0.9372, time: 135.01
+2022-01-23 16:52:50,717 ----- Validation after Epoch: 4
+2022-01-23 16:55:05,340 ----- Epoch[004/050], Validation Loss: 1.0513, Validation Acc@1: 0.7756, Validation Acc@5: 0.9371, time: 134.62
+2022-01-23 18:11:31,220 ----- Validation after Epoch: 6
+2022-01-23 18:13:37,026 ----- Epoch[006/050], Validation Loss: 1.0526, Validation Acc@1: 0.7754, Validation Acc@5: 0.9373, time: 125.80
+2022-01-23 19:29:48,958 ----- Validation after Epoch: 8
+2022-01-23 19:32:04,316 ----- Epoch[008/050], Validation Loss: 1.0491, Validation Acc@1: 0.7743, Validation Acc@5: 0.9374, time: 135.36
+2022-01-23 20:48:28,046 ----- Validation after Epoch: 10
+2022-01-23 20:50:44,803 ----- Epoch[010/050], Validation Loss: 1.0427, Validation Acc@1: 0.7750, Validation Acc@5: 0.9375, time: 136.75
+2022-01-23 22:07:11,113 ----- Validation after Epoch: 12
+2022-01-23 22:09:48,132 ----- Epoch[012/050], Validation Loss: 1.0491, Validation Acc@1: 0.7749, Validation Acc@5: 0.9371, time: 157.02
+2022-01-23 23:26:31,952 ----- Validation after Epoch: 14
+2022-01-23 23:28:50,335 ----- Epoch[014/050], Validation Loss: 1.0456, Validation Acc@1: 0.7757, Validation Acc@5: 0.9371, time: 138.38
+2022-01-24 00:45:40,421 ----- Validation after Epoch: 16
+2022-01-24 00:47:51,232 ----- Epoch[016/050], Validation Loss: 1.0482, Validation Acc@1: 0.7749, Validation Acc@5: 0.9371, time: 130.81
+2022-01-24 02:04:01,559 ----- Validation after Epoch: 18
+2022-01-24 02:06:30,914 ----- Epoch[018/050], Validation Loss: 1.0577, Validation Acc@1: 0.7749, Validation Acc@5: 0.9368, time: 149.35
+2022-01-24 03:23:01,029 ----- Validation after Epoch: 20
+2022-01-24 03:25:12,620 ----- Epoch[020/050], Validation Loss: 1.0389, Validation Acc@1: 0.7761, Validation Acc@5: 0.9372, time: 131.59
+2022-01-24 04:41:42,949 ----- Validation after Epoch: 22
+2022-01-24 04:43:48,313 ----- Epoch[022/050], Validation Loss: 1.0545, Validation Acc@1: 0.7750, Validation Acc@5: 0.9373, time: 125.36
+2022-01-24 06:00:36,797 ----- Validation after Epoch: 24
+2022-01-24 06:02:53,749 ----- Epoch[024/050], Validation Loss: 1.0482, Validation Acc@1: 0.7758, Validation Acc@5: 0.9375, time: 136.95
+2022-01-24 07:19:25,910 ----- Validation after Epoch: 26
+2022-01-24 07:21:30,021 ----- Epoch[026/050], Validation Loss: 1.0416, Validation Acc@1: 0.7761, Validation Acc@5: 0.9373, time: 124.11
+2022-01-24 08:38:01,851 ----- Validation after Epoch: 28
+2022-01-24 08:40:10,046 ----- Epoch[028/050], Validation Loss: 1.0452, Validation Acc@1: 0.7762, Validation Acc@5: 0.9375, time: 128.19
+2022-01-24 09:56:11,787 ----- Validation after Epoch: 30
+2022-01-24 09:58:24,053 ----- Epoch[030/050], Validation Loss: 1.0458, Validation Acc@1: 0.7766, Validation Acc@5: 0.9372, time: 132.26
+2022-01-24 11:14:53,654 ----- Validation after Epoch: 32
+2022-01-24 11:17:09,754 ----- Epoch[032/050], Validation Loss: 1.0447, Validation Acc@1: 0.7754, Validation Acc@5: 0.9372, time: 136.10
+2022-01-24 12:33:26,454 ----- Validation after Epoch: 34
+2022-01-24 12:35:38,116 ----- Epoch[034/050], Validation Loss: 1.0430, Validation Acc@1: 0.7760, Validation Acc@5: 0.9373, time: 131.66
+2022-01-24 13:51:48,379 ----- Validation after Epoch: 36
+2022-01-24 13:54:01,929 ----- Epoch[036/050], Validation Loss: 1.0431, Validation Acc@1: 0.7763, Validation Acc@5: 0.9374, time: 133.55
+2022-01-24 15:10:51,709 ----- Validation after Epoch: 38
+2022-01-24 15:13:03,793 ----- Epoch[038/050], Validation Loss: 1.0445, Validation Acc@1: 0.7769, Validation Acc@5: 0.9376, time: 132.08
+2022-01-24 16:29:33,543 ----- Validation after Epoch: 40
+2022-01-24 16:31:45,529 ----- Epoch[040/050], Validation Loss: 1.0475, Validation Acc@1: 0.7764, Validation Acc@5: 0.9378, time: 131.98
+2022-01-24 17:47:53,683 ----- Validation after Epoch: 42
+2022-01-24 17:49:56,539 ----- Epoch[042/050], Validation Loss: 1.0478, Validation Acc@1: 0.7762, Validation Acc@5: 0.9375, time: 122.85
+2022-01-24 19:06:39,279 ----- Validation after Epoch: 44
+2022-01-24 19:08:56,021 ----- Epoch[044/050], Validation Loss: 1.0450, Validation Acc@1: 0.7764, Validation Acc@5: 0.9377, time: 136.74
+2022-01-24 20:25:07,955 ----- Validation after Epoch: 46
+2022-01-24 20:27:21,251 ----- Epoch[046/050], Validation Loss: 1.0445, Validation Acc@1: 0.7765, Validation Acc@5: 0.9378, time: 133.29
+2022-01-24 21:44:09,131 ----- Validation after Epoch: 48
+2022-01-24 21:46:25,129 ----- Epoch[048/050], Validation Loss: 1.0449, Validation Acc@1: 0.7763, Validation Acc@5: 0.9376, time: 136.00
+2022-01-24 23:02:45,715 ----- Validation after Epoch: 50
+2022-01-24 23:05:06,717 ----- Epoch[050/050], Validation Loss: 1.0452, Validation Acc@1: 0.7763, Validation Acc@5: 0.9375, time: 141.00
